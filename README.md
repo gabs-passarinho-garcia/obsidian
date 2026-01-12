@@ -48,3 +48,26 @@ A Batalha dos Deuses/
         ├── Sebna.md          # O Antagonista Interno
         ├── Rabsaque.md       # A Voz da Besta
         └── ...
+```
+
+## 🛠️ Como Navegar (Stack Tecnológico)
+
+Para a melhor experiência (ver as conexões e o Graph View):
+1.  Clone este repositório.
+2.  Abra a pasta raiz como um **Cofre (Vault)** no [Obsidian](https://obsidian.md/).
+3.  Instale o plugin **Excalidraw** (opcional) para visualizar diagramas complexos se houver.
+4.  Use `Ctrl+Click` nos links para navegar entre a teologia, a história e a narrativa.
+
+---
+
+## ⚖️ Licença
+
+Todo o conteúdo criativo deste repositório está licenciado sob a [**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**](https://creativecommons.org/licenses/by-sa/4.0/legalcode.pt).
+
+* ✅ **Você pode:** Compartilhar e adaptar o material.
+* ⚠️ **Você deve:** Dar o crédito apropriado (Atribuição) e distribuir suas contribuições sob a mesma licença (ShareAlike).
+
+*Copyright © 2025-2026 Gabriel "Gabs" Passarinho Garcia.*
+
+---
+*"Escreva como se a tinta fosse sangue e o papel fosse pele."*
