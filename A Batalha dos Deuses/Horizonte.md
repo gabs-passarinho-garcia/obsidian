@@ -64,10 +64,12 @@ graph TD
 ## 📚 Os Volumes (Sinopses)
 ### 🍎 Prólogo: O Portão de Fogo (A Queda)
 * **Base:** Gênesis 3.
-* **O Inimigo:** A **Dúvida** ("É assim que Deus disse?").
-* **Tema:** *A Ruptura*. O momento em que o Universo quebrou.
-* **Atmosfera:** Perda da Inocência. O choque sensorial do primeiro sangue derramado (as vestes de pele) e o terror de ver os Querubins armados bloqueando o retorno.
-* **Cena Chave:** Adão vestindo a pele ensanguentada e percebendo que a morte agora é sua roupa.
+* **O Inimigo:** A **Mentira** e a **Autossuficiência**.
+* **Tema:** *A Ruptura*. O momento em que a realidade quebrou.
+* **Atmosfera:** Trauma Primordial.
+    * *O Som:* Não o da mordida na fruta, mas o "crack" teológico do universo se dividindo.
+    * *O Visual:* A primeira vez que Adão vê sangue (o animal morto para fazer as vestes). O choque de ver os Querubins (monstros quiméricos, não anjos fofos) bloqueando o caminho de casa com espadas de plasma giratórias.
+* **Link:** [[Projetos/O Portão de Fogo]]
 
 ### 🌊 Vol 0: O Abismo das Águas (O Dilúvio)
 * **Base:** Gênesis 6-9.
