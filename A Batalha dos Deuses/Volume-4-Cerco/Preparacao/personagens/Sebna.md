@@ -2,7 +2,7 @@
 **Tags:** #personagem #escriba #rival #político
 **Status:** 📜 Vivo / Amargurado / Rebaixado
 **Imagem:** 
-![[A Batalha dos Deuses/Preparacao/assets/personagens/Sebna.png]]
+![[Sebna.png]]
 
 ---
 

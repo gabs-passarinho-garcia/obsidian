@@ -5,7 +5,7 @@
 ---
 
 ## 👹 A Natureza da Besta
-![[A Batalha dos Deuses/Preparacao/assets/personagens/soldado_assirio.png]]
+![[soldado_assirio.png]]
 * **Não são apenas soldados:** São engenheiros da morte.
 * **Tática:** Terror Total (*Schrecklichkeit*). Empalamento, esfolamento, pirâmides de cabeças. O objetivo é fazer a cidade se render sem luta pelo pânico.
 * **Tecnologia:**

@@ -15,7 +15,7 @@ sticker: emoji//1f3db-fe0f
 
 ## 🧱 A Muralha Larga (A Cicatriz de Pedra)
 *A obra de engenharia mais desesperada de Ezequias. Uma muralha de 7 metros de espessura construída às pressas.*
-![[A Batalha dos Deuses/Preparacao/assets/locais/jerusalem_muralha.png|400]]
+![[jerusalem_muralha.png|400]]
 
 * **A Textura:** Pedras calcárias não polidas, argamassa fresca, resto de casas demolidas incorporadas na base (Isaías 22:10).
 * **O Sentimento:** Segurança bruta. Não é bonita, é indestrutível. É onde os soldados passam a noite.
@@ -28,7 +28,7 @@ sticker: emoji//1f3db-fe0f
 
 ## 🏛️ O Templo de Salomão (O Coração Escuro)
 *Esqueça o mármore branco. Pense em pedra amarelada, madeira escura e ouro velho.*
-![[A Batalha dos Deuses/Preparacao/assets/locais/jerusalem_templo.png|400]]
+![[jerusalem_templo.png|400]]
 
 * **A Textura:** Pedra calcária "Meleke" (pedra real). O interior é todo revestido de **Cedro do Líbano** (madeira escura e avermelhada) e ouro.
 * **Iluminação:** Não há janelas grandes. A luz vem das Menorás (candelabros) e do fogo do Altar de Bronze lá fora. É um lugar de sombras sagradas e fumaça.
@@ -41,7 +41,7 @@ sticker: emoji//1f3db-fe0f
 
 ## 🏰 O Palácio Real e o Arsenal (Casa da Floresta do Líbano)
 *O centro administrativo e militar. Onde Eliaquim trabalha.*
-![[A Batalha dos Deuses/Preparacao/assets/locais/jerusalem_palacio_real.png|400]]
+![[jerusalem_palacio_real.png|400]]
 
 * **A Estrutura:** Conhecido pelas suas florestas de colunas de cedro (por isso o nome). É amplo, arejado, mas agora está cheio de mapas e armas.
 * **O Arsenal:** Paredes cobertas com os "escudos de ouro" (agora de bronze, pois os de ouro foram dados aos egípcios/assírios em épocas passadas).
@@ -53,7 +53,7 @@ sticker: emoji//1f3db-fe0f
 
 ## 💧 O Túnel de Siloé (A Veia da Vida)
 *O lugar mais claustrofóbico e vital da cidade.*
-![[A Batalha dos Deuses/Preparacao/assets/locais/jerusalem_tunel_siloe.png|400]]
+![[jerusalem_tunel_siloe.png|400]]
 
 * **A Textura:** Rocha sólida cortada a picareta. Teto baixo (em alguns lugares você tem que curvar). Água fria batendo na cintura ou no tornozelo. Escuro total, iluminado apenas por lâmpadas de azeite.
 * **O Som:** O "Gihon" (a fonte) borbulhando e o eco de vozes distantes.
@@ -65,7 +65,7 @@ sticker: emoji//1f3db-fe0f
 
 ## 🏘️ A Cidade Baixa e o Mishneh (O Labirinto)
 *Onde o povo vive, se espreme e espera.*
-![[A Batalha dos Deuses/Preparacao/assets/locais/jerusalem_cidade_baixa.png|400]]
+![[jerusalem_cidade_baixa.png|400]]
 
 * **A Textura:** Casas cúbicas de pedra calcária, umas sobre as outras. Escadas externas. Telhados planos onde as famílias dormem no calor.
 * **O Caos:** Varrais de roupa, animais (cabras, galinhas) soltos nas ruas estreitas, cheiro de pão assando e esgoto a céu aberto.
