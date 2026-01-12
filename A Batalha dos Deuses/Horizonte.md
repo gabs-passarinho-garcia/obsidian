@@ -137,17 +137,18 @@ graph TD
 
 ## ⏳ Linha do Tempo Comparativa
 
-| Ano (Aprox.) | Volume | Inimigo Principal | Evento Chave |
-| :--- | :--- | :--- | :--- |
-| Pré-História | **Vol 0** | A Carne / Nefilins | O Dilúvio |
-| Pré-História | **Vol I** | Tecnologia / Ego | Torre de Babel |
-| 1446 a.C. | **Vol II** | Deuses do Egito | A Páscoa / Mar Vermelho |
-| 1010 a.C. | **Vol III** | Ocultismo | A Sessão em Endor |
-| 850 a.C. | **Vol IV** | Baal | Fogo no Carmelo |
-| 701 a.C. | **Vol V** | Máquina Assíria | A Noite dos 185.000 |
-| 539 a.C. | **Vol VI** | O Estado | Cova dos Leões |
-| 33 d.C. | **Vol VII** | A Morte | A Cruz |
-| Futuro | **Vol VIII** | O Mal Absoluto | O Armagedom |
+| Ano (Aprox.) | Volume       | Inimigo Principal  | Evento Chave                   |
+| :----------- | :----------- | :----------------- | :----------------------------- |
+| Pré-História | Prólogo      | O Diabo / O Pecado | A Queda / A Expulsão do Jardim |
+| Pré-História | **Vol 0**    | A Carne / Nefilins | O Dilúvio                      |
+| Pré-História | **Vol I**    | Tecnologia / Ego   | Torre de Babel                 |
+| 1446 a.C.    | **Vol II**   | Deuses do Egito    | A Páscoa / Mar Vermelho        |
+| 1010 a.C.    | **Vol III**  | Ocultismo          | A Sessão em Endor              |
+| 850 a.C.     | **Vol IV**   | Baal               | Fogo no Carmelo                |
+| 701 a.C.     | **Vol V**    | Máquina Assíria    | A Noite dos 185.000            |
+| 539 a.C.     | **Vol VI**   | O Estado           | Cova dos Leões                 |
+| 33 d.C.      | **Vol VII**  | A Morte            | A Cruz                         |
+| Futuro       | **Vol VIII** | O Mal Absoluto     | O Armagedom                    |
 
 ---
 *"Eu sou o Alfa e o Ômega, o Princípio e o Fim."*
