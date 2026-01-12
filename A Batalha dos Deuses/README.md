@@ -1,0 +1,49 @@
+# 🌌 Antologia: A Batalha dos Deuses
+
+> *"A História não é um rio calmo; é uma série de colisões violentas entre o Trono de Deus e os altares dos homens."*
+
+**Status:** 🚧 Em Construção
+**Universo:** [[Cosmogonia Narrativa]]
+**Roadmap Completo:** 🗺️ [[Horizonte]]
+
+---
+
+## 📋 O Conceito
+Esta antologia reúne crônicas de ficção histórica e fantástica que exploram os momentos de **Ruptura Espiritual** na narrativa bíblica.
+Cada volume foca em um confronto específico onde uma entidade (seja um deus pagão, um império, a tecnologia ou a própria morte) desafiou a soberania de YHWH e recebeu uma resposta baseada no **[[Realismo Poético Brutal]]**.
+
+Não são histórias isoladas; são capítulos de uma única guerra cósmica que atravessa milênios.
+
+---
+
+## 📚 Índice dos Volumes
+
+### 🏗️ A Era Primordial
+* **Vol 0: O Abismo das Águas** (O Dilúvio vs. O Caos) - *Planejamento*
+* **Vol I: A Língua de Tijolos** (Babel vs. A Tecnologia) - *Planejamento*
+
+### ⚔️ A Era dos Reis e Impérios
+* **Vol II: A Praga do Nilo** (Êxodo vs. O Panteão Egípcio) - *Planejamento*
+* **Vol III: A Coroa de Cinzas** (Saul vs. O Oculto) - *Planejamento*
+* **Vol IV: O Fogo do Carmelo** (Elias vs. Baal) - *Ideação*
+* 🟢 **Vol V: [[Volume-4-Cerco/README|O Cerco de Jerusalém]]** (Ezequias vs. A Máquina Assíria)
+    * *Status:* **EM ESCREVER (Foco Atual)**
+    * *Sinopse:* O terror psicológico de uma cidade cercada pela maior máquina de morte da antiguidade.
+
+### 🦁 A Era do Exílio e Redenção
+* **Vol VI: A Boca da Besta** (Daniel vs. O Estado Divino) - *Planejamento*
+* **Vol VII: O Sangue do Cordeiro** (A Paixão vs. A Morte) - *Futuro*
+* **Vol VIII: O Trono Branco** (O Juízo Final) - *Futuro*
+
+---
+
+## 🧭 Como Navegar neste Universo
+
+1.  **Visão Macro:** Consulte o arquivo **[[Horizonte]]** para ver a linha do tempo completa, o diagrama de conexões e os temas teológicos de cada era.
+2.  **Visão Micro:** Entre na pasta de cada Volume (ex: `Volume-4-Cerco`) para acessar os personagens, cenários e capítulos daquela história específica.
+3.  **Filosofia:** Todas as histórias seguem o manifesto do **Realismo Poético Brutal**:
+    * *Textura:* O mundo é sujo, tátil e sensorial.
+    * *Verdade:* A redenção brilha mais forte na escuridão total.
+
+---
+*"Eu sou o Alfa e o Ômega, o Princípio e o Fim."*
