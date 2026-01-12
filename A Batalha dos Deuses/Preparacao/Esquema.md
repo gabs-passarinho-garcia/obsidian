@@ -49,6 +49,7 @@ Uma releitura visceral do confronto entre a máquina de guerra da [[Assíria]] e
 * **A Entrega da Mensagem:** [[Eliaquim]] entra na Sala do Trono, coberto de saco, e relata as palavras do inimigo.
 * **Ação Crítica:** [[Ezequias]] rasga as vestes reais. O colapso da dignidade real em troca da humildade total.
     * *Frase-Chave:* "Este é um dia de angústia, de repreensão e de vergonha; chegamos à hora do parto, mas não há força para dar à luz." ([[Isaías 37]])
+    * *O Drama Oculto:* A dor física de [[Ezequias]] (úlcera) misturada à dor moral. A falta de um herdeiro torna a morte do rei o fim da Casa de Davi.
 * **A Busca pelo Profeta:** A missão de [[Eliaquim]] até a casa de [[Isaías]].
 * **A Resposta:** [[Isaías]] entrega a profecia. Simples, calma, soberana. A garantia de que [[Senaqueribe]] não entrará, nem lançará uma flecha sequer.
 
@@ -67,7 +68,17 @@ Uma releitura visceral do confronto entre a máquina de guerra da [[Assíria]] e
 * **Resolução:** A libertação de [[Jerusalém]]. O sentimento não é de euforia de batalha, mas de um alívio profundo, quase traumático (Inspiração: [[Salmo 46]]).
 * **Fechamento:** [[Eliaquim]] contempla a soberania de Deus. A força humana falhou, e foi aí que a vitória aconteceu.
 
+### EPÍLOGO: O Preço do Milagre (A Semente da Destruição)
+*A ironia final: a vida que foi salva trará a morte futura.*
+
+* **Salto Temporal:** 12 anos após o cerco.
+* **Cena:** [[Eliaquim]] (envelhecido) e [[Ezequias]] (doente) observam o príncipe herdeiro, [[Manassés]] (agora com ~9 anos), brincando no pátio.
+* **A Ação:** O menino demonstra fascínio por relíquias de guerra assírias ou crueldade fria.
+* **O Diálogo:** Ezequias celebra o filho como o "milagre da continuidade". Eliaquim, segurando a [[Chave da Casa de Davi]], sente um pressentimento sombrio.
+* **Reflexão Final:** "Sobrevivemos ao fogo de fora para acender a fogueira de dentro." A percepção de que a profecia de [[Isaías]] sobre o "prego que cede" (Isaías 22) está se cumprindo.
+
 ---
 **Notas Adicionais:**
 * Manter a *texture* (cheiros, sons, tato) alinhada ao [[Realismo Poético Brutal]].
 * Focar na [[Masculinidade Redimida]] de [[Eliaquim]]: medo controlado pelo dever.
+* **Contraste:** A beleza do milagre divino vs. a falibilidade humana (Ezequias/Manassés).
