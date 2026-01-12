@@ -61,6 +61,12 @@ graph TD
     style V5 fill:#d4af37,color:#000,stroke:#fff,stroke-width:4px,stroke-dasharray: 5 5;
 ```
 ## 📚 Os Volumes (Sinopses)
+### 🍎 Prólogo: O Portão de Fogo (A Queda)
+* **Base:** Gênesis 3.
+* **O Inimigo:** A **Dúvida** ("É assim que Deus disse?").
+* **Tema:** *A Ruptura*. O momento em que o Universo quebrou.
+* **Atmosfera:** Perda da Inocência. O choque sensorial do primeiro sangue derramado (as vestes de pele) e o terror de ver os Querubins armados bloqueando o retorno.
+* **Cena Chave:** Adão vestindo a pele ensanguentada e percebendo que a morte agora é sua roupa.
 
 ### 🌊 Vol 0: O Abismo das Águas (O Dilúvio)
 * **Base:** Gênesis 6-9.
