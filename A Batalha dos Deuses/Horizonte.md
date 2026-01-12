@@ -32,7 +32,8 @@ graph TD
     classDef final fill:#fff,stroke:#000,stroke-width:4px,color:#000;
 
     subgraph Era Primordial [O Caos e a Ordem]
-        V0(Vol 0: O Abismo das Águas) --> V1(Vol I: A Língua de Tijolos)
+        P(Prólogo: O Portão de Fogo) --> V0(Vol 0: O Abismo das Águas)
+        V0 --> V1(Vol I: A Língua de Tijolos)
     end
 
     subgraph Era da Formação [Sangue e Fogo]
