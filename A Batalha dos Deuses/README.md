@@ -19,22 +19,26 @@ Não são histórias isoladas; são capítulos de uma única guerra cósmica que
 ## 📚 Índice dos Volumes
 
 ### 🏗️ A Era Primordial
-* Prólogo: O Portão de Fogo (A Queda)
-* **Vol 0: O Abismo das Águas** (O Dilúvio vs. O Caos) - *Planejamento*
-* **Vol I: A Língua de Tijolos** (Babel vs. A Tecnologia) - *Planejamento*
+* **Prólogo:** O Portão de Fogo (A Queda)
+* **Vol 0:** O Abismo das Águas (O Dilúvio)
+* **Vol I:** A Língua de Tijolos (Babel)
 
-### ⚔️ A Era dos Reis e Impérios
-* **Vol II: A Praga do Nilo** (Êxodo vs. O Panteão Egípcio) - *Planejamento*
-* **Vol III: A Coroa de Cinzas** (Saul vs. O Oculto) - *Planejamento*
-* **Vol IV: O Fogo do Carmelo** (Elias vs. Baal) - *Ideação*
-* 🟢 **Vol V: [[Volume-4-Cerco/README|O Cerco de Jerusalém]]** (Ezequias vs. A Máquina Assíria)
+### ⚔️ A Era da Formação e dos Juízes
+* **Vol II:** A Praga do Nilo (Êxodo)
+* **Vol III:** O Vale dos Cântaros (Gideão vs. Midiã)
+* **Vol IV:** O Deus Decapitado (A Arca vs. Dagom)
+
+### 👑 A Era dos Reis e Impérios
+* **Vol V:** A Coroa de Cinzas (Saul vs. O Oculto)
+* **Vol VI:** O Fogo do Carmelo (Elias vs. Baal)
+* 🟢 **Vol VII: [[Volume-4-Cerco/README|O Cerco de Jerusalém]]** (Ezequias vs. A Máquina Assíria)
     * *Status:* **EM ESCREVER (Foco Atual)**
     * *Sinopse:* O terror psicológico de uma cidade cercada pela maior máquina de morte da antiguidade.
 
 ### 🦁 A Era do Exílio e Redenção
-* **Vol VI: A Boca da Besta** (Daniel vs. O Estado Divino) - *Planejamento*
-* **Vol VII: O Sangue do Cordeiro** (A Paixão vs. A Morte) - *Futuro*
-* **Vol VIII: O Trono Branco** (O Juízo Final) - *Futuro*
+* **Vol VIII:** A Boca da Besta (Daniel vs. O Estado Divino)
+* **Vol IX:** O Sangue do Cordeiro (A Paixão vs. A Morte)
+* **Vol X:** O Trono Branco (O Juízo Final)
 
 ---
 
