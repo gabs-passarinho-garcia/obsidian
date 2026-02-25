@@ -22,32 +22,14 @@ Toda história aqui segue os pilares da minha filosofia de escrita:
 
 ---
 
-## 🚧 Projeto em Andamento: A Batalha dos Deuses
+## 🧩 Projetos e Crônicas (Índice Geral)
 
-Atualmente, o foco principal é a crônica histórica situada no século VIII a.C.
+Esta seção mapeia os centros nervosos (Readmes) de todos os projetos literários e campanhas de RPG contidos neste laboratório. Sendo guiado pelas mecânicas literárias e os dados rolados.
 
-> **Sinopse:** Uma releitura visceral do cerco de Senaqueribe a Jerusalém (701 a.C.). Visto pelos olhos de **Eliaquim**, o mordomo real que carrega a Chave da Casa de Davi, a história explora o colapso psicológico de uma cidade cercada pela maior máquina de guerra da antiguidade e a resposta silenciosa do Deus Único.
-
-### 📂 Estrutura do Projeto
-A organização segue princípios de Clean Architecture aplicados à literatura:
-
-```text
-A Batalha dos Deuses/
-├── A Batalha dos Deuses.md   # Arquivo Mestre (Index)
-└── Preparacao/               # Worldbuilding & Setup
-    ├── Arquitetura.md        # Cenários (Túnel de Siloé, Muralha Larga)
-    ├── Cronologia.md         # Timeline histórica e geopolítica
-    ├── Esquema.md            # O Esqueleto Narrativo (Atos e Beats)
-    ├── Figurino.md           # Texturas, roupas e armaduras
-    ├── Referências.md        # Base bíblica e teológica
-    ├── assets/               # Concept Art e Referências Visuais
-    └── personagens/          # Fichas Psicológicas Profundas
-        ├── Eliaquim.md       # O Protagonista (POV)
-        ├── Ezequias.md       # O Rei Penitente
-        ├── Tirza.md          # O Coração da Aposta
-        ├── Sebna.md          # O Antagonista Interno
-        ├── Rabsaque.md       # A Voz da Besta
-        └── ...
+```dataview
+TABLE file.folder AS "Caminho / Projeto", tipo, status
+FROM #projeto
+SORT file.folder ASC
 ```
 
 ## 🛠️ Como Navegar (Stack Tecnológico)
