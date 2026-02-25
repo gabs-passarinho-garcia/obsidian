@@ -85,7 +85,7 @@ Controle o caos gravitacional e o avanço dos perigos sem sair desta página.
 
 ```dataview
 TABLE tipo, status, localização
-FROM #npc AND "Campanhas/Torre_Invertida"
+FROM #npc AND #fabula-ultima/torre-invertida
 SORT file.name ASC
 ```
 
@@ -93,7 +93,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE nivel, fraqueza, hp_max
-FROM #monstro AND "Campanhas/Torre_Invertida"
+FROM #monstro AND #fabula-ultima/torre-invertida
 SORT nivel DESC
 ```
 

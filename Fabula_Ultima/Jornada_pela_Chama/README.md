@@ -5,7 +5,7 @@ tags:
   - status/planejamento
   - tema/realismo-poetico
 sistema: Fabula Ultima
-tipo: Aventura
+tipo: Campanha
 ---
 
 # 🔥 Jornada pela Chama

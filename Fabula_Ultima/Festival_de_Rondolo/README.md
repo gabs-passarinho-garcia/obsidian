@@ -5,7 +5,7 @@ tags:
   - status/em-andamento
   - tema/realismo-poetico
 sistema: Fabula Ultima
-tipo: Aventura
+tipo: One-Shot
 ---
 
 # 🌪️ O Festival de Rondolo
