@@ -19,6 +19,7 @@ tags:
   - fabula-ultima/torre-invertida
 exampleProperty: 80
 banner: Fabula_Ultima/A_Torre_Invertida/assets/Automato_art.png
+banner_y: "17"
 ---
 # `VIEW[{nome}]`
 **Nível:** `VIEW[{nivel}]` | **Rank:** `VIEW[{rank}]` | **Espécie:** `VIEW[{especie}]`

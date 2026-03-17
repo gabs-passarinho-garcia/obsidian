@@ -19,6 +19,7 @@ tags:
   - fabula-ultima/torre-invertida
 exampleProperty: 50
 banner: Fabula_Ultima/A_Torre_Invertida/assets/Vinha_art.png
+banner_y: "33"
 ---
 # `VIEW[{nome}]`
 **Nível:** `VIEW[{nivel}]` | **Rank:** `VIEW[{rank}]` | **Espécie:** `VIEW[{especie}]`

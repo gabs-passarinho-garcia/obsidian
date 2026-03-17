@@ -19,6 +19,7 @@ tags:
   - fabula-ultima/torre-invertida
 exampleProperty: 60
 banner: Fabula_Ultima/A_Torre_Invertida/assets/Acolito_art.png
+banner_y: "23.5"
 ---
 # `VIEW[{nome}]`
 **Nível:** `VIEW[{nivel}]` | **Rank:** `VIEW[{rank}]` | **Espécie:** `VIEW[{especie}]`

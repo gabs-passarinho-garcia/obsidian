@@ -6,7 +6,7 @@ especie: Humanoide
 hp_max: 200
 hp_atual: 200
 mp_max: 120
-mp_atual: 120
+mp_atual: 135
 des: 6
 int: 10
 vig: 6
@@ -20,6 +20,7 @@ tags:
   - chefao
 exampleProperty: 200
 banner: Fabula_Ultima/A_Torre_Invertida/assets/Hooke_Battle_art.png
+banner_y: "25"
 ---
 # `VIEW[{nome}]`
 **Nível:** `VIEW[{nivel}]` | **Rank:** `VIEW[{rank}]` | **Espécie:** `VIEW[{especie}]`
