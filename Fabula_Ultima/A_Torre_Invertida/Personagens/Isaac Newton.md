@@ -21,10 +21,11 @@ Ele não luta contra as amarras gravitacionais que [[Robert Hooke]] impôs a ele
 ## 🔗 A Teia de Relações
 * **[[Helena]]:** A mulher que ele amava. Ela era o caos e a vida; ele, a ordem e o silêncio. A memória do som da casca da maçã quebrando nos dentes dela ainda o assombra. Para Newton, ela foi a Eva que provou o conhecimento e pagou com a vida no [[Motor Ascendente]].
 * **[[Robert Hooke]]:** Seu nêmesis e carcereiro. Newton não sente ódio de Hooke, apenas uma pena profunda e dilacerante. Ele sabe que a loucura de Hooke é apenas a couraça de um homem que não consegue confessar seu próprio pecado.
+* **[[Isabella Stuart]]:** O fantasma de sua própria frieza. Antes de Helena, Newton descartou o amor de Isabella por pura lógica, pois a ambição dela nublava suas equações. Ele não sabe que essa "variável descartada" se infiltrou na Torre para destruir o que restou de seu mundo.
 * **A Prisão:** Encarcerado no coração da [[Torre da Inversão]], ele foi forçado a calcular os nós de energia que mantêm a heresia de Hooke de pé. 
 
 ## ⚙️ Função Mecânica na Aventura
-O destino de Newton dita o nível de dificuldade do embate final contra [[Robert Hooke]]. Ele é o fiel da balança entre a Graça e a Lei Implacável.
+O destino de Newton dita o nível de dificuldade do embate final contra [[Robert Hooke]] (e possivelmente contra Isabella). Ele é o fiel da balança entre a Graça e a Lei Implacável.
 
 ### 🟢 Cenário 1: Newton Libertado (A Equação da Graça)
 Se o grupo encontrar as chaves e libertar o cientista antes de subir ao Planetário Quebrado, Newton se junta ao grupo na batalha final como um **NPC Aliado (Guest)**. Ele rola sua própria iniciativa e traz as seguintes vantagens:
@@ -37,4 +38,3 @@ Se o grupo ignorar a cela de Newton e for direto para o confronto final, Hooke t
 * O combate se torna uma luta brutal de sobrevivência. 
 * Os jogadores **não podem** usar a "Equação da Graça" para cancelar anomalias. 
 * Hooke rola com Vantagem em testes para alterar o ambiente, e o *Relógio de Colapso Gravitacional da Torre* avança passivamente a cada duas rodadas, aumentando a pressão.
----

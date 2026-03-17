@@ -21,13 +21,15 @@ O Motor Ascendente não tem a elegância limpa que os [[Manuscritos de Da Vinci]
 Ele não funciona de maneira suave; ele opera na base da agonia mecânica. Cada rotação dos cilindros emite um guincho agudo que parece um lamento. A máquina original derreteu no Desfiladeiro dos Ventos Uivantes, e o modelo atual que alimenta a [[Torre da Inversão]] carrega os mesmos vícios de design. É uma bomba-relógio cosmológica sendo forçada a girar pela loucura de um homem.
 
 ## 🔗 A Teia de Relações
-* **[[Helena]]:** O motor foi o seu caixão. Ela subiu a bordo rindo, com gosto de liberdade, mas o superaquecimento do núcleo derreteu a estrutura e rasgou sua pele antes do baque final. A máquina carrega os ecos da sua ambição e do seu sacrifício.
-* **[[Robert Hooke]]:** Para ele, o motor é um deus de metal que precisa ser adorado. Ele o conserta freneticamente, ignorando o calor que queima suas próprias mãos. O motor é a prova de que ele não falhou; se a máquina continuar funcionando, então a culpa pela morte de Helena é da Gravidade, não dele.
-* **[[Isaac Newton]]:** O profeta da tragédia. Newton calculou o limite de fadiga do metal através dos [[Cálculos de Galileu]] e avisou que a máquina cederia. O motor é a confirmação física de que a matemática da Graça e da Lei é inviolável.
+* **[[Helena]]:** O motor foi o seu caixão. Ela subiu a bordo rindo, com gosto de liberdade, mas o superaquecimento do núcleo derreteu a estrutura e rasgou sua pele.
+* **[[Robert Hooke]]:** Para ele, o motor é um deus de metal. Ele o conserta freneticamente, ignorando o calor que queima suas mãos. Se a máquina continuar funcionando, então a culpa pela morte de Helena é da Gravidade, não dele.
+* **[[Isaac Newton]]:** O profeta da tragédia. Newton calculou o limite de fadiga através dos [[Cálculos de Galileu]] e avisou que a máquina cederia.
+* **[[Isabella Stuart]]:** A Usurpadora. Para Bella, o motor não é um tributo a Helena; é um trono. Ela planeja fundir o próprio sangue ao núcleo superaquecido, usando a anomalia para se transformar em uma "deusa" inatingível.
 
 ## ⚙️ Função Mecânica na Aventura (O Núcleo da Batalha Final)
-O Motor é o verdadeiro perigo durante o confronto contra Hooke no topo/fundo da Torre.
+O Motor é o verdadeiro perigo durante o confronto no topo/fundo da Torre.
 
-* **A Fonte da Anomalia:** Enquanto o Motor estiver ativo na arena, Hooke recebe bônus defensivos e a gravidade da sala muda aleatoriamente a cada rodada, forçando testes constantes de posicionamento.
-* **A Falha de Design (Vulnerabilidade Tática):** Se os jogadores tiverem coletado os fragmentos dos [[Manuscritos de Da Vinci]] e descoberto a falha de superaquecimento, eles podem focar seus ataques em válvulas de pressão específicas do Motor (que funcionam como alvos secundários com HP próprio). 
-* **Colapso Controlado:** Destruir as válvulas causa Dano Massivo de Fogo em Hooke e desativa as anomalias da sala, forçando o vilão a lutar "no chão" como um homem comum, nu perante a gravidade.
+* **A Fonte da Anomalia:** Enquanto o Motor estiver ativo na arena, Hooke (e posteriormente Isabella) recebe bônus defensivos e a gravidade da sala muda aleatoriamente a cada rodada.
+* **A Falha de Design (Vulnerabilidade Tática):** Se os jogadores tiverem descoberto a falha de superaquecimento (via [[Manuscritos de Da Vinci]]), podem atacar válvulas de pressão específicas (alvos secundários com HP próprio). 
+* **Colapso Controlado:** Destruir as válvulas causa Dano Massivo de Fogo no controlador do motor e desativa as anomalias da sala.
+* **A Ascensão de Isabella (Dilema Final):** Se Isabella conseguir alcançar o Motor, ela realiza a *Ascensão*. Isso ativa a fase 2 da batalha do Chefe, transformando-a numa Vilã Suprema de 15 Pontos de Ultima.
