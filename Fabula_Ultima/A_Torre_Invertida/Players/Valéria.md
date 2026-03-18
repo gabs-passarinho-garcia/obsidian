@@ -15,7 +15,7 @@ classes: [Guardião 2, Furioso 2, Espiritualista 1]
 
 ![[Valeria_art.png|300]]
 
-![[Valeria_battle_art.png]]
+![[Valeria_battle_art.png|300]]
 ## 📖 A História de Valéria (Para o Jogador)
 Valéria é uma paladina impetuosa e letal que foi redimida por Deus, mas que nunca conseguiu conceder o perdão a si mesma. Nascida na Alta Nobreza, ela tem um passado afogado em crueldade, arrogância, abusos e escravidão, culminando no abandono imperdoável de seu próprio filho. Hoje, ela é uma guerreira divina com um juramento inquebrável de proteger os fracos. Seu senso de dever e sede de aventura são incomparáveis, mas andam lado a lado com sua impulsividade, impaciência, imprudência e uma notória falta de inteligência tática. Ela não pensa antes de agir; ela se joga na frente do golpe.
 

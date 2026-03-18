@@ -14,7 +14,7 @@ classes: [Furioso 3, Mestre de Armas 2]
 
 ![[Jekkyl_art.png|300]]
 
-![[Hyde_art.png]]
+![[Hyde_art.png|300]]
 ### 🪞 Aparência Física (A Juventude no Sangue)
 Fora de combate, Jekkyl é um homem idoso, magro e quebrado, com uma barba e bigode brancos, longos e majestosos — o símbolo de sua antiga guilda. Ele veste uma Túnica de Combate surrada. Quando a iniciativa é rolada e o ódio o consome, sua pele estica, as rugas desaparecem e seu corpo explode de volta para o vigor muscular de sua juventude, apenas para retornar ao estado frágil assim que a luta termina.
 

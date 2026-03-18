@@ -14,7 +14,7 @@ classes: [Orador 3, Espiritualista 2]
 
 ![[Lira_art.png|300]]
 
-![[Lira_battle_art.png]]
+![[Lira_battle_art.png|300]]
 
 ## 📖 A História de Lira (Para o Jogador)
 Lira é uma jovem Barda Elfa, uma artista espetacular cuja melodia em sua flauta transversal parece capaz de ancorar a sanidade de quem a escuta. Ela vive a vida adoidado, esbanjando talento e uma sensualidade caótica, mas essa libertinagem é apenas uma máscara teatral muito bem pintada. Por trás dos sorrisos fáceis e das notas agudas, ela esconde um forte senso de justiça, uma fé profunda e uma saudade esmagadora de sua família — **[quem eles eram e o que causou essa separação é algo que a própria Lira se recusa a dizer em voz alta... por enquanto. Cabe a você definir esses detalhes]**.
