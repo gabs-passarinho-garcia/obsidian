@@ -12,7 +12,7 @@ classes: [Orador 3, Espiritualista 2]
 
 > *"Eles acham que eu toco por moedas e vinho. Deixe que achem. Quando a noite cair, a melodia da minha flauta lembrará a este mundo de metal que a alma ainda pulsa."*
 
-![[Lira_art.png]]
+![[Lira_art.png|300]]
 
 ![[Lira_battle_art.png]]
 

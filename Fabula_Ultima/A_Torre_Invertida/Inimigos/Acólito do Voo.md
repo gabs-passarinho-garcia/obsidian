@@ -23,7 +23,7 @@ banner_y: "23.5"
 ---
 # `VIEW[{nome}]`
 **Nível:** `VIEW[{nivel}]` | **Rank:** `VIEW[{rank}]` | **Espécie:** `VIEW[{especie}]`
-![[Acolito_art.png]]
+![[Acolito_art.png|300]]
 ## 📊 Status Vital
 **Pontos de Vida (PV)**
 ```meta-bind

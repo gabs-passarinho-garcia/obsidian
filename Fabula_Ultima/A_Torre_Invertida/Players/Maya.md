@@ -12,7 +12,7 @@ classes: [Ladina 3, Mestre de Armas 2]
 
 > *"Os nobres de Woolsthorpe olhavam para o céu procurando os deuses. Eu olhava para baixo, para garantir que as engrenagens não esmagassem meus pés. O céu caiu, majestade. Mas as engrenagens? Elas continuam girando a meu favor."*
 
-![[Maya_art.png]]
+![[Maya_art.png|300]]
 ## 📖 A História de Maya (Para o Jogador)
 Maya é uma sobrevivente nata. Enquanto outros buscavam sentido na filosofia, ela buscava espaço entre os pistões. Ela cresceu limpando o maquinário industrial de Woolsthorpe, movendo-se onde o aço é mais quente e o espaço é menor. Quando a Torre surgiu e a **Guilda dos Bigodudos** foi traída, Maya se recusou a fugir. Ela não tem um bigode natural, mas antes de cada batalha, ela passa o dedo sujo de óleo no lábio superior — um "bigode de graxa" que serve como juramento: a guilda ainda respira enquanto ela estiver de pé. **[O que você viu nos dutos de ventilação que mais ninguém sabe? Qual cicatriz as engrenagens deixaram em você? Cabe a você definir]**.
 

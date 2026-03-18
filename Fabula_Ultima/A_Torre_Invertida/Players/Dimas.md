@@ -9,7 +9,7 @@ classes: [Necromante 3, Lâmina Carmesim 1, Malandro 1]
 
 ⚡ **Dimas, O Coveiro Sorridente**
 "As pessoas de Woolsthorpe choram porque o chão sumiu e o céu quebrou. Eu? Eu sorrio. Sabe o quanto a Torre da Inversão valorizou o meu trabalho? A morte está em alta, meu amigo, e o meu sangue é a única moeda que não desvaloriza."
-![[Dimas_art.png]]
+![[Dimas_art.png|300]]
 
 📖 **A História de Dimas (Para o Jogador)**
 Dimas é o trapaceiro da morte, o homem que transformou o fim do mundo em um negócio lucrativo. Enquanto os outros lamentam a gravidade estilhaçada de Woolsthorpe, ele vê oportunidades. Com a vitalidade de um carrapato e a lábia de um vigarista, Dimas aprendeu a usar o sangue e as almas alheias para garantir a única coisa com a qual ele realmente se importa: continuar respirando.

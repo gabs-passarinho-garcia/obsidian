@@ -13,7 +13,7 @@ classes: [Guardião 2, Furioso 2, Espiritualista 1]
 > *"A luz perdoa, mas a memória não. Enquanto eu tiver força para levantar este machado, nenhum outro inocente pagará pelos meus pecados."*
 
 
-![[Valeria_art.png]]
+![[Valeria_art.png|300]]
 
 ![[Valeria_battle_art.png]]
 ## 📖 A História de Valéria (Para o Jogador)

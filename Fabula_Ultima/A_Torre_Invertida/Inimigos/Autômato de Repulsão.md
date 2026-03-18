@@ -23,7 +23,7 @@ banner_y: "17"
 ---
 # `VIEW[{nome}]`
 **Nível:** `VIEW[{nivel}]` | **Rank:** `VIEW[{rank}]` | **Espécie:** `VIEW[{especie}]`
-![[Automato_art.png]]
+![[Automato_art.png|300]]
 ## 📊 Status Vital
 **Pontos de Vida (PV)**
 ```meta-bind

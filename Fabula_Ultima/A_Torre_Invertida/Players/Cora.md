@@ -12,7 +12,7 @@ classes: [Espiritualista 3, Mestre de Armas 2]
 
 > *"O céu pode ter caído e o chão pode ter sumido, mas enquanto houver uma faísca de coragem em nossos corações, a escuridão nunca vencerá!"*
 
-![[Cora_art.png]]
+![[Cora_art.png|300]]
 ## 📖 A História de Cora (Para o Jogador)
 Cora é a "caçula" da **Guilda dos Bigodudos**. Criada entre guerreiros amargurados e veteranos de guerra, ela se tornou o coração que mantém o grupo unido. Enquanto outros buscam vingança ou redenção, Cora busca o amanhã. Ela acredita que a Torre da Inversão é uma anomalia que pode ser curada, e que o Arquiteto cometeu um erro de cálculo emocional, não apenas físico. Ela carrega a esperança como se fosse uma espada afiada. **[Qual foi o último sorriso que você viu antes da Torre subir? Por que você se recusa a odiar o Arquiteto? Cabe a você definir]**.
 

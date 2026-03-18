@@ -22,7 +22,7 @@ banner: Fabula_Ultima/A_Torre_Invertida/assets/Lodo_art.png
 ---
 # `VIEW[{nome}]`
 **Nível:** `VIEW[{nivel}]` | **Rank:** `VIEW[{rank}]` | **Espécie:** `VIEW[{especie}]`
-![[Lodo_art.png]]
+![[Lodo_art.png|300]]
 ## 📊 Status Vital
 **Pontos de Vida (PV)**
 ```meta-bind

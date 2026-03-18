@@ -12,7 +12,7 @@ classes: [Elementalista 3, Entropista 2]
 
 > *"Eu não sei o que acontece quando a nossa engrenagem para de girar para sempre... e eu tenho muito medo de descobrir. Mas se vocês prometerem não me deixar sozinho no escuro, eu queimo a Torre inteira por vocês."*
 
-![[Vivi_art.png]]
+![[Vivi_art.png|300]]
 ## 📖 A História de Vivi (Para o Jogador)
 Vivi acordou em um depósito de sucata, cercado por peças inúteis e silêncio. Ele é um autômato que desenvolveu algo que não deveria ter: uma alma e um pavor existencial do fim. Encontrado pela **Guilda dos Bigodudos**, ele foi acolhido não como uma máquina, mas como um irmão. Para se sentir parte do grupo, ele usa um bigode de feltro e tenta aprender o que é "ser vivo". **[O que brilha na sua mente quando você fecha os olhos? Quem da guilda colou seu bigode pela primeira vez? Cabe a você definir]**.
 

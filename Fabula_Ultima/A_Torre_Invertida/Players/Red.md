@@ -12,7 +12,7 @@ classes: [Quimerista 3, Mestre de Armas 2]
 
 > *"Meu rebanho foi engolido pela gravidade despedaçada, mas eu não deixarei que a loucura da Torre devore mais ninguém. Vai, Centelha! Mostre a eles a fúria da terra que eles quebraram!"*
 
-![[Red_art.png]]
+![[Red_art.png|300]]
 ## 📖 A História de Red (Para o Jogador)
 Red era um simples pastor de Woolsthorpe que viu seu mundo ser estripado. Quando a Torre subiu, seu rebanho não teve chance, mas ele conseguiu salvar a **Centelha** — um rato silvestre que se tornou uma bateria viva de eletricidade — dentro de uma esfera de latão antiga. Ele não luta por glória; ele luta para pastorear as almas feridas da fauna que a Torre distorceu. Ele é o elo entre a natureza que sangra e a resistência. **[Como você encontrou sua primeira esfera? Qual fera da torre você jurou libertar? Cabe a você definir]**.
 

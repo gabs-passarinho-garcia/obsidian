@@ -9,7 +9,7 @@ classes: [Bandoleiro 2, Astrólogo 3]
 
 ⚡ **Orion, O Caçador de Estrelas**
 "O Arquiteto acha que mudando a gravidade, ele governa o céu. Pobre tolo. Eu roubei o poder das constelações muito antes dessa Torre maldita ser erguida. E adivinha? As estrelas estão com raiva."
-![[Orion_art.png]]
+![[Orion_art.png|300]]
 
 📖 **A História de Orion (Para o Jogador)**
 Orion é um homem dos ermos, um fora da lei que, em vez de olhar para a fuligem e o metal da Torre da Inversão, olhou para as estrelas obscurecidas. Ele tatuou as constelações na própria pele, usando-as como mapas e como armas. Ele não dispara apenas chumbo; ele dispara a fúria do cosmos.

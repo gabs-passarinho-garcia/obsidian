@@ -26,7 +26,7 @@ banner_y: "25"
 **Nível:** `VIEW[{nivel}]` | **Rank:** `VIEW[{rank}]` | **Espécie:** `VIEW[{especie}]`
 *Traços: Arquiteto do Caos, Arrogante, Gênio da Física, Quebrado.*
 *Vilão Maior (10 Pontos de Ultima)*
-![[Hooke_Battle_art.png]]
+![[Hooke_Battle_art.png|300]]
 ## 📊 Status Vital
 **Pontos de Vida (PV)**
 ```meta-bind

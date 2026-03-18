@@ -12,7 +12,7 @@ classes: [Elementalista 3, Entropista 2]
 
 > *"A gravidade não é uma ferramenta para o seu maquinário profano. É a âncora que o Criador nos deu para lembrarmos que viemos do pó. Deixe-me mostrar o peso da sua heresia."*
 
-![[Miqueias_art.png]]
+![[Miqueias_art.png|300]]
 ## 📖 A História de Miqueias (Para o Jogador)
 Miqueias é um estudioso das estrelas e um místico devoto que vê a harmonia do universo como a maior prova da existência do Criador. Quando a Torre da Inversão rasgou o céu de Woolsthorpe, ele sentiu como se a física estivesse sendo estrangulada. Para ele, a magia não é um truque de luzes, é uma "oração violenta" para restaurar a ordem das coisas. Ele não joga chamas; ele condena o alvo com o calor de uma estrela moribunda. **[O que você perdeu quando o céu se quebrou? Por que você trocou seus pergaminhos por um cajado de ferro frio? Cabe a você definir esses segredos]**.
 

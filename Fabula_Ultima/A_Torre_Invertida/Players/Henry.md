@@ -9,7 +9,7 @@ classes: [Furioso 2, Orador 2, Inventor 1]
 
 ⚡ **Henry Caldeira, O Coro de Ferrugem**
 "Eu costumava pedir silêncio para que a orquestra pudesse tocar. Hoje, eu exijo barulho para que o mundo saiba que ainda estamos vivos! LEVANTEM-SE!"
-![[Henry_art.png]]
+![[Henry_art.png|300]]
 
 📖 **A História de Henry (Para o Jogador)**
 A tragédia de Henry ecoa pelos salões do cosmos. Um maestro cujas cordas vocais foram derretidas pela fuligem da Torre da Inversão, mas que se recusou a deixar o mundo morrer em silêncio. Ele abriu a própria garganta, substituiu a carne por válvulas de pressão e agora ruge o seu amor pela vida como uma fornalha industrial. Ele é a muralha sinfônica que se recusa a deixar a música acabar.

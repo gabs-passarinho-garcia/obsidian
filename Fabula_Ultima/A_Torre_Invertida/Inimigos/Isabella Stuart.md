@@ -34,7 +34,7 @@ banner_y: "25"
 
 > *"Isaac sempre disse que o que sobe, deve descer. Mal posso esperar para ver o mundo dele despencar enquanto eu finalmente subo."*
 
-![[Isabella_battle_art.png]]
+![[Isabella_battle_art.png|300]]
 ---
 
 📊 **Status Vital**

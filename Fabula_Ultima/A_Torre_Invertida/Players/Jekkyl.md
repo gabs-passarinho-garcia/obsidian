@@ -12,7 +12,7 @@ classes: [Furioso 3, Mestre de Armas 2]
 
 > *"O bigode era o nosso juramento. Vocês o cortaram para se sentirem limpos, mas eu vejo o sangue em seus rostos lisos. Aproxime-se, garoto. O velho Jekkyl vai lhe ensinar como os fundadores lutam."*
 
-![[Jekkyl_art.png]]
+![[Jekkyl_art.png|300]]
 
 ![[Hyde_art.png]]
 ### 🪞 Aparência Física (A Juventude no Sangue)

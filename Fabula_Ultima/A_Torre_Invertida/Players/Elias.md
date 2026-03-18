@@ -12,7 +12,7 @@ classes: [Atirador 3, Inventor 2]
 
 > *"Eles dizem que a gravidade quebrou e que os deuses nos abandonaram. Eu digo que a trajetória de uma bala de chumbo de 20 gramas disparada a quinhentos metros por segundo ainda obedece à mesma equação."*
 
-![[Elias_art.png]]
+![[Elias_art.png|300]]
 ## 📖 A História de Elias (Para o Jogador)
 Elias é um estranho que buscou o isolamento na Vila de Woolsthorpe muito antes do céu começar a cair. Ele carrega as marcas de um passado de pólvora e fumaça — talvez um desertor de guerra, talvez um engenheiro de cerco que viu horror demais. Ele é um homem da lógica pura que viu sua nova casa ser estripada por uma Torre de obsidiana. Ele não sabe quem a construiu ou o porquê, mas ele entende de engrenagens e balística melhor do que ninguém. **[O que causou suas cicatrizes e por que você buscava o silêncio da vila? Cabe a você definir esses segredos]**.
 
