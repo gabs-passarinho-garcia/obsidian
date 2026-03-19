@@ -13,14 +13,27 @@ classes: [Espiritualista 3, Mestre de Armas 2]
 > *"O céu pode ter caído e o chão pode ter sumido, mas enquanto houver uma faísca de coragem em nossos corações, a escuridão nunca vencerá!"*
 
 ![[Cora_art.png|300]]
-## 📖 A História de Cora (Para o Jogador)
-Cora é a "caçula" da **Guilda dos Bigodudos**. Criada entre guerreiros amargurados e veteranos de guerra, ela se tornou o coração que mantém o grupo unido. Enquanto outros buscam vingança ou redenção, Cora busca o amanhã. Ela acredita que a Torre da Inversão é uma anomalia que pode ser curada, e que o Arquiteto cometeu um erro de cálculo emocional, não apenas físico. Ela carrega a esperança como se fosse uma espada afiada. **[Qual foi o último sorriso que você viu antes da Torre subir? Por que você se recusa a odiar o Arquiteto? Cabe a você definir]**.
+
+## 📖 O Conceito: A Centelha do Lar
+Você é a "caçula" da Guilda dos Bigodudos. Criada entre guerreiros amargurados e veteranos de guerra, você se tornou o coração que mantém o grupo unido. Enquanto outros buscam vingança ou redenção, você busca o amanhã. Você acredita que a Torre da Inversão é uma anomalia que pode ser curada, e que seus criadores cometeram um erro de cálculo emocional, não apenas físico. Você carrega a esperança como se fosse uma espada afiada.
+
+> [!info] O Espaço em Branco (Preencha seu Passado)
+> **Sua luz é a âncora do grupo em um mundo visceral, mas a sua coragem não é cega, ela nasceu de algo que você se recusa a perder. Defina os seus motivos:**
+
+**1. Qual foi o último sorriso ou momento de pura beleza que você testemunhou antes da Torre destruir o céu?**
+`INPUT[textArea:sorriso_cora]`
+
+**2. Por que você se recusa a odiar os criadores da anomalia, acreditando que eles podem ser salvos de si mesmos?**
+`INPUT[textArea:esperanca_cora]`
+
+**3. Qual é a pequena tradição reconfortante (uma cantiga, um gesto, uma comida) que você faz no acampamento para manter o moral da guilda alto?**
+`INPUT[text:tradicao_cora]`
 
 ### 🪞 Aparência Física (A Estrela de Woolsthorpe)
-Cora é a clássica heroína de JRPG, mas adaptada para o suor e a poeira do nosso Realismo Poético Brutal.
-* **Físico e Marcas:** [Definir: Cabelos dourados amarrados em "maria-chiquinha" ou rabo de cavalo? Olhos verdes vibrantes?].
-* **O Visual Anime:** Ela usa um traje que lembra um uniforme de marinheira estilizado — um "topinho" branco com gola azul e uma "sainha" pregueada sobre um shortinho de combate prático. Por baixo, usa meias grossas de lã que sobem até as coxas e botas de couro pesadas, cheias de fivelas.
-* **O Legado:** Preso ao laço do seu uniforme, ela ostenta o **Broche de Bronze da Guilda dos Bigodudos**. Como não tem bigode, ela às vezes pinta um "bigode de sol" (com tinta amarela) no rosto para festivais ou batalhas importantes.
+Você é a clássica heroína, mas adaptada para o suor e a poeira de um mundo brutal. Veste um traje prático que lembra um uniforme de marinheira estilizado, com meias grossas de lã e botas de couro pesadas, cheias de fivelas. Como não tem bigode, você às vezes pinta um "bigode de sol" (com tinta amarela) no rosto para festivais ou batalhas importantes, e ostenta orgulhosa o Broche de Bronze da Guilda.
+
+**Como você descreve o seu rosto, o seu cabelo e aquele brilho no olhar que se recusa a apagar?**
+`INPUT[textArea:aparencia_cora]`
 
 ---
 
@@ -29,7 +42,7 @@ A líder inspiradora e curandeira. Ela brilha na linha de frente, protegendo os 
 
 * **Identidade:** A Portadora da Chama.
 * **Tema:** Esperança *(Acreditar na redenção de tudo e todos)*.
-* **Origem:** Woolsthorpe (A Vila que resiste).
+* **Origem:** Woolsthorpe *(A Vila que resiste)*.
 
 ---
 
@@ -50,15 +63,16 @@ Cora equilibra agilidade física com uma vontade espiritual inabalável.
 ---
 
 ## 🎒 Equipamento e Inventário
-* **Arma:** Espada Longa Impecável *(Sempre brilha, herança de família).*
-* **Mão Secundária:** Escudo Leve *(Bronze polido com símbolos solares).*
-* **Armadura:** Traje de Marinheira Reforçado *(Linho encantado e couro leve).*
+* **Arma:** Espada Longa Impecável *(Sempre brilha, herança de família)*.
+* **Mão Secundária:** Escudo Leve *(Bronze polido com símbolos solares)*.
+* **Armadura:** Traje de Marinheira Reforçado *(Linho encantado e couro leve)*.
 * **Acessório:** Broche da Guilda dos Bigodudos.
 * **Inventário:** 6 Pontos de Inventário (PI).
 
 ---
 
 ## ⚔️ Ataques Básicos
+
 * **[Corpo a Corpo] Espada da Esperança:** 【DES + VIG】+1. 
   * **Dano:** 【RA + 6】 de dano físico. *(O bônus de +1 vem da Maestria).*
 
@@ -76,6 +90,6 @@ Cora equilibra agilidade física com uma vontade espiritual inabalável.
 ---
 
 ## 🧠 Guia Tático para o Jogador
-1. **Luz no Metal:** O Arquiteto usa muitas máquinas e sombras. Seu feitiço *Lux* é o terror deles.
+1. **Luz no Metal:** As forças da Torre usam muitas máquinas e sombras. Seu feitiço *Lux* é o terror deles.
 2. **Ninguém Fica Para Trás:** Você tem o maior potencial de cura em área do grupo. Use *Curar* assim que a Valéria ou o Jekkyl entrarem em Crise.
-3. **Agilidade Marcial:** Com sua Defesa 10 e Contra-Ataque, você pode ficar no "garrafão" da luta. Se o inimigo errar, ele paga caro.
+3. **Agilidade Marcial:** Com sua Defesa 10 e *Contra-Ataque*, você pode ficar no "garrafão" da luta. Se o inimigo errar, ele paga caro.

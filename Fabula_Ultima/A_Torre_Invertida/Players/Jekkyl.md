@@ -15,23 +15,42 @@ classes: [Furioso 3, Mestre de Armas 2]
 ![[Jekkyl_art.png|300]]
 
 ![[Hyde_art.png|300]]
+
+## 📖 O Conceito: O Veterano Amaldiçoado
+Você é um combatente brutal e um andarilho, amaldiçoado por uma entidade que se alimenta do seu ódio. Como um Ex-Fundador da Antiga Guilda dos Bigodudos, você viu o símbolo da sua camaradagem ser afogado no sangue por fanáticos puristas. A dor e a raiva são tão grandes que, quando a iniciativa é rolada, seu corpo idoso e quebrado explode de volta para o vigor muscular da sua juventude, apenas para retornar ao estado frágil assim que a luta termina. 
+
+> [!info] O Espaço em Branco (Preencha seu Passado)
+> **A fúria latente de Jekkyl não vem apenas da traição da guilda, mas de uma tragédia familiar imperdoável. Defina a origem do seu ódio:**
+
+**1. Em quais circunstâncias trágicas e inenarráveis você acabou tirando a vida do seu próprio filho?**
+`INPUT[textArea:filho_jekkyl]`
+
+**2. Como foi o massacre que destruiu a Antiga Guilda dos Bigodudos e quem liderou os "puristas"?**
+`INPUT[textArea:traicao_guilda_jekkyl]`
+
+**3. O que é exatamente a "Besta" ou maldição que habita dentro de você e se alimenta dessa raiva?**
+`INPUT[textArea:entidade_jekkyl]`
+
 ### 🪞 Aparência Física (A Juventude no Sangue)
-Fora de combate, Jekkyl é um homem idoso, magro e quebrado, com uma barba e bigode brancos, longos e majestosos — o símbolo de sua antiga guilda. Ele veste uma Túnica de Combate surrada. Quando a iniciativa é rolada e o ódio o consome, sua pele estica, as rugas desaparecem e seu corpo explode de volta para o vigor muscular de sua juventude, apenas para retornar ao estado frágil assim que a luta termina.
+Fora de combate, você é um homem idoso, magro e quebrado, com uma barba e bigode brancos, longos e majestosos. Mas na batalha, a juventude violenta toma conta. 
+
+**Como você descreve a Túnica de Combate surrada que veste e a sensação física de rejuvenescer através do ódio?**
+`INPUT[textArea:aparencia_jekkyl]`
 
 ---
 
 ## 👁️ Visão Geral e Identidade
-Um combatente brutal que vaga pelo mundo como um andarilho, amaldiçoado por uma entidade que se alimenta de seu ódio. Ele começa a luta como um mestre técnico e termina como um monstro multi-ataque.
+Um lutador que começa o combate como um mestre técnico e termina como um monstro multi-ataque incontrolável.
 
 * **Identidade:** Aventureiro Errante e Ex-Fundador.
 * **Tema:** Raiva *(Uma fúria latente pela corrupção da guilda e o ódio de ter matado o próprio filho)*.
-* **Origem:** A Antiga Guilda dos Bigodudos *(Um símbolo de camaradagem rústica e gargalhadas que foi afogado no sangue de fanáticos puristas)*.
+* **Origem:** A Antiga Guilda dos Bigodudos.
 * **Peculiaridade:** O Campeão da Besta *(Adaptação narrativa da peculiaridade "(Supostamente um) Superchefe")*.
 
 ---
 
 ## 🎲 Atributos e Estatísticas
-*Estes são os atributos de Jekkyl na **Fase 1** (Modo Jovem/Luta).*
+*Estes são os atributos de Jekkyl na Fase 1 (Modo Jovem/Luta).*
 
 * **Vigor (VIG):** d10
 * **Destreza (DES):** d8
@@ -47,7 +66,7 @@ Um combatente brutal que vaga pelo mundo como um andarilho, amaldiçoado por uma
 ---
 
 ## 🎒 Equipamento e Inventário
-* **Arma:** Punhos Nus Calejados *(Causa Dano Físico).*
+* **Arma:** Punhos Nus Calejados *(Causa Dano Físico)*.
 * **Armadura:** Túnica de Combate Desgastada *(As antigas vestes de monge/lutador, manchadas com o sangue de seu filho)*.
 * **Inventário:** 6 Pontos de Inventário (PI).
 
@@ -61,9 +80,8 @@ Um combatente brutal que vaga pelo mundo como um andarilho, amaldiçoado por uma
 ---
 
 ## 🩸 Poderes Heroicos e Classes (Nível 5)
-
-* **(Furioso 3) Provocar (5 PM):** Jekkyl bate os punhos e chama a atenção para si. Ele faz um teste oposto de 【VIG + VON】 contra um inimigo. Se passar, o alvo fica Enfurecido e é obrigado a atacá-lo.
-* **(Furioso 3) Adrenalina (Passiva):** Enquanto Jekkyl estiver em Crise (com 30 PV ou menos), seus ataques desarmados causam **+4 de dano** adicional.
+* **(Furioso 3) Provocar (5 PM):** Jekkyl bate os punhos e chama a atenção para si. Ele faz um teste oposto de 【VIG + VON】 contra um inimigo. Se passar, o alvo fica *Enfurecido* e é obrigado a atacá-lo.
+* **(Furioso 3) Adrenalina (Passiva):** Enquanto Jekkyl estiver em Crise (com 30 PV ou menos), seus ataques desarmados causam +4 de dano adicional.
 * **(Furioso 3) Espírito Indomável (Passiva):** Quando gasta um ou mais Pontos de Fabula, recupera 15 PV ou PM, ou cura uma condição.
 * **(Mestre de Armas 2) Maestria Desarmada (Passiva):** Jekkyl recebe +2 em testes de Precisão com ataques desarmados.
 * **(Mestre de Armas 2) (Ação) Quebra-Ossos:** Ao atingir com seus punhos, ele pode escolher não causar dano. Em vez disso, a força desloca as articulações do oponente, deixando-o *Atordoado* ou *Fraco*, ou reduzindo seus PM em 20!
@@ -71,8 +89,8 @@ Um combatente brutal que vaga pelo mundo como um andarilho, amaldiçoado por uma
 ---
 
 ## 🐺 A Peculiaridade: As Fases da Besta!
-Jekkyl usa as Fases de Possessão da peculiaridade (Supostamente um) Superchefe:
+*Jekkyl usa as Fases de Possessão da peculiaridade (Supostamente um) Superchefe:*
 
 * **Fase 1 (O Vigor Retornado):** Início de combate. Jekkyl volta fisicamente a ser jovem, desferindo golpes precisos com sua técnica de Mestre.
-* **Fase 2 (O Bigode de Sombras - Crise!):** Quando cai para **30 PV** ou menos, a Besta toma as rédeas. O rosto jovem dele se contorce e a energia bestial se manifesta como vibrissas sombrias (um "bigode" aterrorizante de pura fúria negra zombando dos puristas). Até o fim do combate, seus socos recebem a propriedade **multi (2)** (atinge dois alvos por ataque!), e todas as habilidades custam **-5 PV/PM**. *(Ele também ganha o dano de Adrenalina!)*.
-* **Fase 3 (A Fúria Bárbara - 0 PV):** Se chegar a **0 PV**, ele pode apagar as emoções de um Laço importante e abraçar a possessão total. O corpo explode em uma silhueta de escuridão! Ele recupera **999 PV e PM** e ganha **+4** em testes de força bruta. Porém, se ele cair a 0 PV novamente nesta forma, ele deve se Sacrificar na narrativa.
+* **Fase 2 (O Bigode de Sombras - Crise!):** Quando cai para 30 PV ou menos, a Besta toma as rédeas. O rosto jovem dele se contorce e a energia bestial se manifesta como vibrissas sombrias (um "bigode" aterrorizante de pura fúria negra zombando dos puristas). Até o fim do combate, seus socos recebem a propriedade **multi (2)** *(atinge dois alvos por ataque!)*, e todas as habilidades custam -5 PV/PM. *(Ele também ganha o dano de Adrenalina!)*.
+* **Fase 3 (A Fúria Bárbara - 0 PV):** Se chegar a 0 PV, ele pode apagar as emoções de um Laço importante e abraçar a possessão total. O corpo explode em uma silhueta de escuridão! Ele recupera 999 PV e PM e ganha +4 em testes de força bruta. Porém, se ele cair a 0 PV novamente nesta forma, ele deve se **Sacrificar** na narrativa.

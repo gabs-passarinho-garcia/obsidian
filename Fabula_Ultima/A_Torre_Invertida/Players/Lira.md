@@ -16,22 +16,30 @@ classes: [Orador 3, Espiritualista 2]
 
 ![[Lira_battle_art.png|300]]
 
-## 📖 A História de Lira (Para o Jogador)
-Lira é uma jovem Barda Elfa, uma artista espetacular cuja melodia em sua flauta transversal parece capaz de ancorar a sanidade de quem a escuta. Ela vive a vida adoidado, esbanjando talento e uma sensualidade caótica, mas essa libertinagem é apenas uma máscara teatral muito bem pintada. Por trás dos sorrisos fáceis e das notas agudas, ela esconde um forte senso de justiça, uma fé profunda e uma saudade esmagadora de sua família — **[quem eles eram e o que causou essa separação é algo que a própria Lira se recusa a dizer em voz alta... por enquanto. Cabe a você definir esses detalhes]**.
+## 📖 O Conceito: A Artista de Duas Faces
+Você é a âncora emocional do grupo. Uma Barda Élfica cuja melodia na ==flauta transversal== parece capaz de evitar que as mentes ao redor quebrem. Você esconde sua própria fratura profunda atrás de sorrisos fáceis, charme caótico e magia sagrada. Sua libertinagem é uma **máscara teatral** projetada para proteger você e os outros do desespero. 
+
+> [!info] O Espaço em Branco (Preencha seu Passado)
+> **Você anseia reencontrar sua família, mas quem eles eram e o que causou essa separação é um segredo seu. Defina os pilares do seu passado:**
+
+**1. Quem era a sua família antes do mundo virar de cabeça para baixo?**
+`INPUT[textArea:familia_lira]`
+
+**2. O que causou a separação de vocês e qual verdade você escondeu deles?**
+`INPUT[textArea:separacao_lira]`
+
+**3. Qual é a melodia exata que você toca na flauta quando a máscara cai e você está sozinha?**
+`INPUT[text:melodia_lira]`
 
 ### 🪞 Aparência Física (A Máscara de Lira)
-Lira possui uma beleza que é ao mesmo tempo selvagem e delicada, uma verdadeira força da natureza que se recusa a ser ofuscada pela fuligem do mundo.
+Sua aparência deve refletir o contraste entre a artista teatral e a sobrevivente das estradas poeirentas. Você possui cabelos adornados, traços élficos orgulhosos e empunha sua flauta com elegância marcial. 
 
-* **Rosto e Cabelos:** Seus cabelos são curtos, volumosos e cheios de cachos castanhos escuros, quase sempre adornados com pequenas flores roxas silvestres. Seus olhos são grandes e de um violeta magnético, intensos o bastante para comandar a atenção de uma taverna inteira ou para enxergar a alma fraturada de um herege.
-* **Traços Élficos:** As orelhas pontudas de meio-elfa ficam orgulhosamente à mostra entre os cachos, decoradas com uma coleção rebelde de pequenos brincos e argolas metálicas.
-* **Vestuário:** Ela veste roupas que misturam a leveza teatral com a poeira áspera da estrada. Usa uma blusa cigana branca de babados com os ombros à mostra, estruturada por um corpete de couro marrom robusto, cheio de amarras e fivelas táticas. O pescoço é adornado por gargantilhas justas e pingentes sutis.
-* **A Postura:** Apesar das tiras de couro surradas nos braços, ela empunha sua flauta transversal com a mesma destreza e elegância de um nobre empunhando uma espada. Ela caminha com ginga e exala um charme libertino que é, no fundo, a sua armadura mais impenetrável.
+**Como você descreve suas vestes e a sua postura para o resto do grupo?**
+`INPUT[textArea:aparencia_lira]`
 
 ---
 
 ## 👁️ Visão Geral e Identidade
-Uma artista que ri para não chorar e que usa o charme para esconder a magia sagrada. Em um mundo de gravidade distorcida, ela é a âncora emocional da equipe.
-
 * **Identidade:** Barda Élfica de Duas Faces.
 * **Tema:** Pertencimento *(Ela teme ficar só e anseia reencontrar sua família)*.
 * **Origem:** Floresta Antiga *(Um oásis natural destruído ou maculado pelo Império ou pela anomalia)*.

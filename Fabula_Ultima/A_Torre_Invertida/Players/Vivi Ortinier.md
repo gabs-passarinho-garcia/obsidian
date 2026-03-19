@@ -8,19 +8,32 @@ tipo: PJ Pré-Pronto
 nivel: 5
 classes: [Elementalista 3, Entropista 2]
 ---
-# 🎇 Vivi, a Centelha no Vazio
+# 🎇 Vivi Ortinier, a Centelha no Vazio
 
-> *"Eu não sei o que acontece quando a nossa engrenagem para de girar para sempre... e eu tenho muito medo de descobrir. Mas se vocês prometerem não me deixar sozinho no escuro, eu queimo a Torre inteira por vocês."*
+>*"Eu não sei o que acontece quando a nossa engrenagem para de girar para sempre... e eu tenho muito medo de descobrir. Mas se vocês prometerem não me deixar sozinho no escuro, eu queimo a Torre inteira por vocês."* 
 
 ![[Vivi_art.png|300]]
-## 📖 A História de Vivi (Para o Jogador)
-Vivi acordou em um depósito de sucata, cercado por peças inúteis e silêncio. Ele é um autômato que desenvolveu algo que não deveria ter: uma alma e um pavor existencial do fim. Encontrado pela **Guilda dos Bigodudos**, ele foi acolhido não como uma máquina, mas como um irmão. Para se sentir parte do grupo, ele usa um bigode de feltro e tenta aprender o que é "ser vivo". **[O que brilha na sua mente quando você fecha os olhos? Quem da guilda colou seu bigode pela primeira vez? Cabe a você definir]**.
+
+## 📖 O Conceito: A Máquina com Alma
+Você é um autômato que acordou em um depósito de sucata, cercado por peças inúteis e silêncio.Contra toda a lógica do mundo, você desenvolveu uma alma e um pavor existencial do fim. A Guilda dos Bigodudos te acolheu não como uma ferramenta, mas como um irmão. Para pertencer, você adotou um ==bigode de feltro== e tenta desesperadamente aprender o que significa "estar vivo"
+
+> [!info] O Espaço em Branco (Preencha seu Passado)
+> **Você não tem memórias de infância, mas o seu despertar foi a sua gênese. Preencha as engrenagens da sua alma recém-nascida:**
+
+**1. O que brilha na sua mente mecânica quando você "fecha os olhos"? Uma lembrança residual ou um sonho falho?**
+`INPUT[textArea:sonho_vivi]`
+
+**2. Qual membro da guilda teve a sensibilidade de colar o seu bigode de feltro pela primeira vez, e o que ele te disse?**
+`INPUT[textArea:primeiro_bigode_vivi]`
+
+**3. Você tem pavor da morte. Como esse medo se manifesta fisicamente no seu chassi (um zumbido, óleo pingando, tremedeira)?**
+`INPUT[text:medo_vivi]`
 
 ### 🪞 Aparência Física (O Mago de Retalhos)
-Um pequeno vulto de sombras que veste roupas largas e coloridas, agora manchadas pela fuligem da Torre.
-* **Físico:** Um rosto de escuridão absoluta com dois olhos amarelos brilhantes. É pequeno e se move de forma hesitante.
-* **O Bigode:** Um pequeno bigode de feltro branco colado no "rosto", seu símbolo de pertencimento.
-* **Vestuário:** Usa um chapéu pontudo amarelo e remendado, uma túnica azul larga com gola listrada e calças bufantes. Suas botas são grandes e pesadas.
+Você é um pequeno vulto de sombras que veste roupas largas e coloridas, agora manchadas pela fuligem da Torre. Um rosto de escuridão absoluta com dois olhos amarelos brilhantes, encimado por um chapéu pontudo amarelo e remendado, e o seu orgulhoso bigode de feltro branco].
+
+**Como os seus olhos amarelos reagem (mudam de cor, piscam, escurecem) quando você sente emoções muito fortes?**
+`INPUT[textArea:aparencia_vivi]`
 
 ---
 
@@ -36,31 +49,29 @@ O "Canhão de Vidro" elemental. Vivi manipula a energia do mundo e a gravidade d
 ## 🎲 Atributos e Estatísticas
 Uma mente que processa o fluxo mágico perfeitamente, em um corpo de pano e metal frágil.
 
-| Atributo | Dado |
-| :--- | :--- |
-| **Astúcia (AST)** | d10 |
-| **Vontade (VON)** | d10 |
-| **Destreza (DES)** | d6 |
-| **Vigor (VIG)** | d6 |
+* **Astúcia (AST):** d10 
+* **Vontade (VON):** d10 
+* **Destreza (DES):** d6 
+* **Vigor (VIG):** d6 
 
-* **Pontos de Vida (PV):** 35 / **Crise:** 17
-* **Pontos de Mana (PM):** 65
-* **Iniciativa:** 8
-* **Defesa Física:** 6
-* **Defesa Mágica:** 12 *(Base + Vestes)*
+* **Pontos de Vida (PV):** 35 / **Crise:** 17 
+* **Pontos de Mana (PM):** 65 
+* **Iniciativa:** 8 
+* **Defesa Física:** 6 
+* **Defesa Mágica:** 12 *(Base + Vestes)* 
 
 ---
 
 ## 🎒 Equipamento e Inventário
-* **Arma:** Cajado Desgastado *(Haste de metal com cristal na ponta).*
-* **Armadura:** Vestes de Sábio *(O traje clássico de mago, reforçado).*
+* **Arma:** Cajado Desgastado *(Haste de metal com cristal na ponta)*.
+* **Armadura:** Vestes de Sábio *(O traje clássico de mago, reforçado)*.
 * **Acessório:** Chapéu Amarelo Pontudo.
 * **Inventário:** 6 PI.
 
 ---
 
 ## 🔮 Magias e Poderes (Elementalista 3 / Entropista 2)
-*Precisão Mágica: 【AST + VON】.*
+*Precisão Mágica: 【AST + VON】*.
 
 * **Ignis (10 PM por alvo):** Dano de Fogo 【RA + 15】. Oportunidade: Alvo fica *Abalado*.
 * **Glacies (10 PM por alvo):** Dano de Gelo 【RA + 15】. Oportunidade: Alvo fica *Lento*.
