@@ -59,7 +59,7 @@ Para entender a construção deste mundo, navegue pelos seguintes módulos:
     * `[[Cronologia]]`: A linha do tempo geopolítica (745 a.C. - 586 a.C.).
     * `[[Figurino]]`: Visualização das roupas e armaduras.
     * `[[Arquitetura]]`: A descrição sensorial de Jerusalém (Túnel, Muralha, Templo).
-* **📂 [[personagens]]:** Dossiês psicológicos profundos de cada ator.
+* **📂 [[A Batalha dos Deuses/Volume-4-Cerco/Preparacao/personagens/personagens]]:** Dossiês psicológicos profundos de cada ator.
 * **📂 [[Capítulos]]:** Os textos finais (Drafts).
 
 ---
