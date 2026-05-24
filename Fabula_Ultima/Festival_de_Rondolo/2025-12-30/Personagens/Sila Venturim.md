@@ -15,4 +15,4 @@ Adolescente de cabelos azuis/esverdeados, visão limitada (cega ou quase cega), 
 - **Utilidade:** Pode guiar os jogadores no meio da fumaça usando a audição.
 
 ## 🔗 Conexões
-- **[[Rascunho]]**: Ajuda a detectar o Tornado na Fase 3.
+- **[[Fabula_Ultima/Festival_de_Rondolo/2025-12-12/Rascunho]]**: Ajuda a detectar o Tornado na Fase 3.

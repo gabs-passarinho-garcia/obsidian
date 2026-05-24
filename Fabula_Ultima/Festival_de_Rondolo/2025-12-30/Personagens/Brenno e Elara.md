@@ -17,4 +17,4 @@
 - **Destino:** Elara é levada pela correnteza ao tentar salvar um bote. Brenno entra em **Choque** (catatônico).
 
 ## 🔗 Conexões
-- **[[Rascunho]]**: A morte de Elara é o gatilho emocional da Fase 2.
+- **[[Fabula_Ultima/Festival_de_Rondolo/2025-12-12/Rascunho]]**: A morte de Elara é o gatilho emocional da Fase 2.

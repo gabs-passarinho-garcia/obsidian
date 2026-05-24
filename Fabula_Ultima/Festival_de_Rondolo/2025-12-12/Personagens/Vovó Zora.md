@@ -16,5 +16,5 @@ Uma senhora baixinha, de costas curvadas, mas com um aperto de mão de ferro. Ve
 - **Profecia:** *"Vejo mãos de quem cura... mas hoje você vai escolher quem sangra."*
 
 ## 🔗 Conexões
-- **[[Rascunho]]**: Sua casa é o local do **Epílogo**.
+- **[[Fabula_Ultima/Festival_de_Rondolo/2025-12-12/Rascunho]]**: Sua casa é o local do **Epílogo**.
 - **Lareira de Pedra**: O símbolo de resistência de Rondolo.

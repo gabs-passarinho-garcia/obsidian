@@ -17,4 +17,4 @@ Um filhote de gato frajola (preto e branco). Tem patas brancas ("luvas") e um bi
 
 ## 🔗 Conexões
 - **[[Tico Sereno]]**: Seu dono (ou servo, na visão do gato).
-- **[[Rascunho]]**: Aparece vivo no Epílogo, dormindo nas cinzas da lareira da [[Vovó Zora]].
+- **[[Fabula_Ultima/Festival_de_Rondolo/2025-12-12/Rascunho]]**: Aparece vivo no Epílogo, dormindo nas cinzas da lareira da [[Vovó Zora]].
