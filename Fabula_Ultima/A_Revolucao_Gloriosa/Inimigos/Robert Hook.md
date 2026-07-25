@@ -6,7 +6,7 @@ especie: Humanoide
 hp_max: 200
 hp_atual: 200
 mp_max: 120
-mp_atual: 120
+mp_atual: 105
 des: 6
 int: 10
 vig: 6
