@@ -1,5 +1,5 @@
 1. A Torre Invertida (Gravidade)
-2. Monstro do Lago Ness
+2. [[Lago_Ness]]
 3. Escândalo na Boêmia
 4. Fìsica:
 	1. Termodinâmica
