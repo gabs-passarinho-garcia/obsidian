@@ -11,7 +11,7 @@
 	7. Hidrostática - Haia
 	8. Relatividade (Monstro Robert Hook, buraco negro) - Londres/Greenwich 
 	9. Mecânica Quântica - Lago Ness
-	10. Radioatividade (Acidente de Goiany) - Cornualha
+	10. Radioatividade ([[Goiany_Incident]]) - Cornualha
 	11. Cordas/Teoria de Tudo - Paris
 5. A  Filha do Rei - Londres/Palácio de Whitehall/Westminster
 6. O Segredo dos clãs - Highlands
