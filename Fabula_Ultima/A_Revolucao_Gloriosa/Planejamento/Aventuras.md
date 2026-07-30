@@ -12,6 +12,6 @@
 	8. Relatividade
 	9. Mecânica Quântica
 	10. Radioatividade
-	11. Física de particulas
+	11. Física de partículas
 5. A Corte
 6. A Batalha Final
