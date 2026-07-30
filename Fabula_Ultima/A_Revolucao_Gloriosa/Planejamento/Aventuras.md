@@ -1,3 +1,6 @@
+---
+tags: sandbox
+---
 1. A Torre Invertida (Gravidade) - Whoolsthorpe
 2. [[Lago_Ness]]
 3. Escândalo na Boêmia - Praga
