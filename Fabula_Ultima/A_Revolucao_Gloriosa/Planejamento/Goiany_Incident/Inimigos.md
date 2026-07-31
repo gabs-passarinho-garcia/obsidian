@@ -12,11 +12,11 @@ tipo: Fichas
 
 # 🐕 Dogzilla (Cão Mutado pelo Césio)
 ![[Dogzilla_art.png|300]]
-**Nível 10 | Campeão (3 a 6 PJ) | Fera / Mutação Radiativa**
+**Nível 10 | Campeão (4 ações/rodada) | Fera / Mutação Radiativa**
 *Traços: Dor Aguda, Fúria Descontrolada, Fogo Purpúreo, Tamanho Colossal.*
 
 **VIG** d10 | **DES** d10 | **AST** d6 | **VON** d6
-**PV:** 300 (Crise 150) | **PM:** 80 | **Iniciativa:** 15
+**PV:** 300 (Crise 150) | **PM:** 80 | **Iniciativa:** 12
 **Defesa:** Física 10 | Mágica 6
 **Afinidades:** ⚡ Abs (Raio) | ☠️ Abs (Veneno) | ⚔️ Vuln (Físico)
 
@@ -28,8 +28,8 @@ tipo: Fichas
 
 ---
 ### ⚙️ Regras Especiais
-* **Lambida Radiativa (Reação):** Ao acertar o ataque *Mordida Mutante*, Dogzilla pode gastar 20 PM para infligir o status **Fraco** no alvo e adicionar +2 segmentos diretos no Relógio de Dosimetria.
-* **Explosão Radiativa de Agonia:** Se derrotado sem a conclusão da *Contenção por Chumbo*, a Relíquia expõe seu núcleo e causa uma onda radiativa terminal, adicionando **+3 segmentos** de Dosimetria na party.
+* **Lambida Radiativa (Reação):** Ao acertar o ataque *Mordida Mutante*, Dogzilla pode gastar **10 PM** para infligir o status **Fraco** no alvo e adicionar **+2 segmentos** no Relógio de Dosimetria. *(Efeito moderado para preservar a economia de PM ao longo das 4 ações por rodada.)*
+* **Explosão Radiativa de Agonia (Ato Final):** Se derrotado sem a conclusão da *Contenção por Chumbo*, o Núcleo Instável no estômago do cão entra em colapso e causa uma onda radiativa terminal, adicionando **+3 segmentos** de Dosimetria na party. *(Poder de Ato Final — ocorre uma única vez, ao morrer.)*
 * **Relógio de Objetivo: Contenção por Chumbo** (`VIEW[{relogio_chumbo}]` / 4)
   `INPUT[slider(minValue(0), maxValue(4)):relogio_chumbo]`
   * *Ação Principal dos Heróis:* Teste 【AST + DES】 (Dif 10) usando vigas/vergalhões de chumbo espalhados na mina. Ao acumular 4 sucessos, o Sopro de Césio é desativado e a Explosão Radiativa final é completamente prevenida.
