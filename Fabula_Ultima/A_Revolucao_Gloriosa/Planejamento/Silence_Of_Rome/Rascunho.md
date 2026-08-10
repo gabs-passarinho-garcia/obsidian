@@ -80,8 +80,8 @@ graph TD
 
 _Aparência, trejeito físico, padrão de fala, quebra sob pressão e uma frase de abertura pra cada suspeito — cole esses ganchos e não precisa decorar personalidade inteira._
 
-**Rei Jaime II**
-
+**Rei Jaime II ([[King James II]])**
+![[James_II_art.png]]
 - _Aparência:_ meia-idade avançada, postura ereta que exige esforço visível pra manter — como um homem carregando uma armadura invisível pesada demais. Olheiras mal escondidas por pó de arroz. Roupas ricas, mas escolhidas um tom mais escuras do que a moda pede, como se já estivesse de luto por algo que ainda não aconteceu.
 - _Trejeito:_ gira um anel de sinete no dedo sem parar, mesmo quando está "calmo".
 - _Fala:_ formal em excesso, frases longas cheias de títulos e cerimônia — até ser encurralado, quando as frases desmoronam em pedaços curtos e ríspidos.
@@ -89,7 +89,7 @@ _Aparência, trejeito físico, padrão de fala, quebra sob pressão e uma frase 
 - _Frase de abertura:_ "Vocês vieram resolver a Torre de Hooke com competência. Resolvam isto com a mesma... discrição."
 
 **Lorde Danby**
-
+![[Danby_art.png]]
 - _Aparência:_ magro, quase febril de tanta energia contida — como se o corpo não conseguisse acompanhar a velocidade da própria cabeça. Roupas protestantes sóbrias, mas com um broche discreto demais pra ser modesto de verdade. Unhas roídas.
 - _Trejeito:_ bate um rolo de pergaminho contra a palma da mão como se estivesse ensaiando um discurso o tempo todo.
 - _Fala:_ retórica política mesmo em conversa casual — cita lei e precedente pra justificar qualquer opinião, até as mais banais.
@@ -97,7 +97,7 @@ _Aparência, trejeito físico, padrão de fala, quebra sob pressão e uma frase 
 - _Frase de abertura:_ "Um Papa morto em solo inglês. Deus tem senso de oportunidade, não acham?"
 
 **Mestre Naturalista da Corte**
-
+![[Naturalist_art.png]]
 - _Aparência:_ baixo, curvado de tanto se debruçar sobre canteiros, mãos grandes e ásperas cobertas de terra que nunca sai por completo das unhas. Óculos tortos, sempre um galho ou folha esquecido no bolso do avental.
 - _Trejeito:_ fala com as mãos como se estivesse podando algo invisível.
 - _Fala:_ nomes botânicos em latim escapam no meio das frases, mesmo quando ninguém entende — ele nem percebe que faz isso.
@@ -113,7 +113,7 @@ _Aparência, trejeito físico, padrão de fala, quebra sob pressão e uma frase 
 - _Frase de abertura:_ "Sua Santidade merece repousar em solo consagrado o quanto antes. Vocês entendem a urgência, certo?"
 
 **Jennifer**
-
+![[Jennifer_art.png]]
 - _Aparência:_ impecável mesmo sob suspeita — avental sem uma mancha, cabelo preso com precisão militar. Mãos calejadas de décadas de trabalho, mas sempre firmes. Olhos claros que encaram sem desviar, o que desconcerta mais do que qualquer nervosismo desconcertaria.
 - _Trejeito:_ mãos firmes mesmo sob acusação direta — calos de décadas de trabalho braçal, não de nervosismo.
 - _Fala:_ precisa, nunca interrompe, deixa o outro terminar de falar antes de responder — quase gentil demais pra alguém tão perigosa.
@@ -121,7 +121,7 @@ _Aparência, trejeito físico, padrão de fala, quebra sob pressão e uma frase 
 - _Frase de abertura:_ "Ninguém aqui vai defender vocês além de mim. Deixem-me ajudar."
 
 **Criado Irlandês (bode expiatório)**
-
+![[Irish_art.png]]
 - _Aparência:_ magro de trabalho duro, não de fome — mas as mãos contam a história de anos servindo em silêncio. Roupa remendada com cuidado, não com desleixo. Olhos baixos por hábito, não por culpa.
 - _Trejeito:_ mãos calejadas de trabalho, olhos baixos por hábito de sobrevivência na corte, não por culpa.
 - _Fala:_ sotaque forte, frases curtas — décadas de aprender que falar demais na frente da nobreza é perigoso.
