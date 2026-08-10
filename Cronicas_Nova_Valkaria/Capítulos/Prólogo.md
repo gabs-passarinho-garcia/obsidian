@@ -2,7 +2,10 @@
  ![InkWriting](<Ink/Writing/2026.8.9 - 23.50pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
 
 
+# Canção de Nova Valkaria — Capítulo 1
+
 	A garoa de Nova Valkaria gelava até os ossos e lavava a poeira de um longo dia de trabalho. Sob as ruas iluminadas por neon, os desfavorecidos saíam atrás das migalhas daquela noite.
+
 	Mal fechei a porta atrás de mim e já dei de cara com um homem — cujas roupas qualquer dona de casa já teria transformado em panos de chão há anos — vendendo bugigangas em caixas amassadas que eu não ousaria perguntar de onde vieram. Na esquina adiante, vi um garoto, não mais que uma criança, enfiando a mão no bolso do paletó arrumado de um transeunte.
 	Andando mais um pouco, uma mulher com a maquiagem borrada e roupas que deixavam pouco à imaginação rangia os dentes, encharcada. Ela se desencostou do poste e veio até mim, oferecendo uma hora de calor por apenas alguns Tibares — oferta que recusei com um aceno seco. Apenas mais uma noite na Capital
 	Eu não a culpo; afinal, eu estava deslumbrante. Olhei no reflexo de uma janela espelhada de um grande edifício comercial: meus cabelos azuis vibravam na penumbra e eu usava um blazer cor-de-rosa por cima de uma regata violeta, que deixava uma nesga da barriga e um discreto decote à mostra. Os shorts deixavam minhas pernas expostas, não fossem os coturnos de cano alto mais abaixo. Minhas orelhas pontudas ostentavam brincos e piercings prateados ao longo de toda a extensão e, se você olhasse com atenção, conseguiria ver os contornos de tatuagens escapando pelo braço sob o blazer. Já me chamaram de muita coisa: musa, beldade, artista, modelo. Mas eu escolhi me chamar de Lira, a barda.
