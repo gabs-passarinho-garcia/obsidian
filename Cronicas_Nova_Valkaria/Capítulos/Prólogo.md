@@ -2,7 +2,7 @@
  ![InkWriting](<Ink/Writing/2026.8.9 - 23.50pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
 
 
-# Canção de Nova Valkaria — Capítulo 1
+# Canção de Nova Valkaria — Prólogo
 
 	A garoa de Nova Valkaria gelava até os ossos e lavava a poeira de um longo dia de trabalho. Sob as ruas iluminadas por neon, os desfavorecidos saíam atrás das migalhas daquela noite.
 	Mal fechei a porta atrás de mim e já dei de cara com um homem — cujas roupas qualquer dona de casa já teria transformado em panos de chão há anos — vendendo bugigangas em caixas amassadas que eu não ousaria perguntar de onde vieram. Na esquina adiante, vi um garoto, não mais que uma criança, enfiando a mão no bolso do paletó arrumado de um transeunte.
@@ -16,12 +16,13 @@
 	- Você não acha que deveria se meter com alguém do seu tamanho, rapaz - eu respondi abrindo um sorriso e entrando na roda.
 	- Tia, você poderia ter fingido que não viu nada, era melhor pra você, agora passa essa bolsa - Ele disse apontando o que quer que tivesse ali para mim.
 	- Pode ficar - eu disse e joguei a bolsa nele.
-	- O jovem abriu a bolsa e colocou a mão cheia de tatuagens dentro. Ele puxa um objeto, uma lâmina de trinta centímetros de dentro da minha bolsa, o cabo de couro simples, costurado.
+	- O jovem abriu a bolsa e colocou a mão cheia de tatuagens dentro. Ele puxou um objeto, uma lâmina de trinta centímetros de dentro da minha bolsa, o cabo de couro simples, costurado.
 	- O que é isso, por que você tem uma faca... - Ele não teve tempo de terminar o que dizia, eu já estava batendo nele com a coronha da pistola que eu sempre trazia escondida na cintura.
-	- Primeira coisa, isso não é uma faca - eu disse puxando a bolsa de volta e pegando a adaga - é uma adaga.
-	- Eu puxei a menina para trás de mim e me preparei para desviar dos outros dois que já partiam pra cima de mim. Eles não tinham qualquer técnica, tentavam bater a esmo, mas eram rápidos e fortes, um passo em falso e eu levaria um sopapo. O líder estava me cercando mais longe, seu nariz sangrava e a ponte estava torta. Ele havia tirado uma faca não muito maior que uma faca de cozinha por baixo da camisa. Ele era melhor que os outros, sabia que provavelmente eu derrubaria os dois, e se preparava para me atrair para perto dele e me enfrentar já cansada. "Três é demais", eu pensei. Empurrei a menina o mais longe que consegui e corri na direção do líder; ele tentou me dar uma facada, que acabou pegando de raspão no meu blazer, contudo, eu consegui passar e me afastei uns quatro metros.
+	Enquanto ele estava tonto, sem entender o que acabou de acontecer, eu puxei a bolsa de volta e peguei a adaga 
+	- Primeira coisa, isso não é uma faca, é uma adaga.
+	Puxei a menina pra trás de mim. Os outros dois já vinham pra cima — sem técnica nenhuma, batendo a esmo, mas rápidos e fortes. Um deslize e eu levava um sopapo. Mais atrás, o líder media a distância, faca de cozinha na mão. Ele era mais esperto que os outros, sabia que eu derrubaria os dois, queria me enfrentar já cansada. "Três é demais", eu pensei. Empurrei a menina o mais longe que consegui e corri na direção do líder; ele tentou me dar uma facada - que apegou de raspão no meu blazer - mas eu consegui me afastar uns quatro metros.
 	- Você não deveria ter cortado a minha roupa - eu disse, e atirei no joelho dele.
-	- Enquanto ele gritava, os outros dois vieram correndo e passaram ao lado do primeiro, exatamente onde eu queria. Tirei de uma bolsinha no cós do meu shorts uma pequena haste de metal prateada com um furo maior numa extremidade e pequenos furos ao longo de sua extensão. Coloquei-a na boca transversalmente e assoprei. Senti o caos fluindo dentro de mim e comecei a tocar uma música quente e agitada. Os meninos pararam e ficaram embasbacados, grande erro. Somente uma coisa veio à minha mente, e então uma bola flamejante saiu da música tocando em minha flauta e acertou os pés dos três meninos ao mesmo tempo, deixando os sapatos e as calças deles chamuscadas. No mesmo instante, eles desistiram de me atacar e saíram correndo na direção da saída da estação, mas não sem antes me lançar um olhar de desprezo.
+	Enquanto ele gritava, os outros dois vieram correndo e passaram ao lado do primeiro, exatamente onde eu queria. Tirei de uma bolsinha no cós do meu shorts uma pequena haste de metal prateada com um furo maior numa extremidade e pequenos furos ao longo de sua extensão. Coloquei-a na boca transversalmente e assoprei. Senti o caos fluindo dentro de mim e comecei a tocar uma música quente e agitada. Os meninos pararam e ficaram embasbacados, grande erro. Somente uma coisa veio à minha mente, e então uma bola flamejante saiu da música tocando em minha flauta e acertou os pés dos três meninos ao mesmo tempo, deixando os sapatos e as calças deles chamuscadas. No mesmo instante, eles desistiram de me atacar e saíram correndo na direção da saída da estação, mas não sem antes me lançar um olhar de desprezo.
 	- Você está bem? - perguntei, estendendo a mão pra menina, que estava caída no chão.
 	- Isso foi magia? - a menina disse aceitando minha ajuda.
 	- Digamos que é uma coisa que esse mundo esqueceu - eu falei enquanto ajeitava o cabelo para deixar uma das orelhas a mostra.
