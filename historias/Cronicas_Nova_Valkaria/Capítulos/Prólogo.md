@@ -32,4 +32,7 @@
 
 ...
 
-	A viagem de metrô foi até que rápida.
+	A viagem foi rápida para a distância percorrida; cruzei mais de dez estações em apenas meia hora. Eu consegui ir sentada, o trem não estava muito cheio, não era horário de pico. Pela janela eu só conseguia ver a iluminação fluorescente do tubo por onde passa o trem, mas o que tem fora dele, a cidade baixa, não seria a vista mais agradável. O ar espesso e cheirando a óleo, fumaça, neon e nenhuma luz do sol é tudo o que eu veria olhando para o buraco onde os menos afortunados da cidade viviam.
+	A essa hora a noite, a estação já não estava cheia de trabalhadores cansados voltando de mais um extenuante dia de trabalho. As pessoas que lá se encontravam eram os casais apaixonados, os jovens em busca de aventura e os mais diversos desajustados, exatamente o tipo de pessoa com os quais eu facilmente me misturaria. Não levou muito tempo para eu ver os arcos de neon dourado que denunciavam a unidade da Taverna do Mestre Donald em <nomear setor da cidade>. A fachada rubro áurea ao mesmo tempo que era familiar em nada se parecia com as estalagens de madeira das antigas canções.
+		Quando eu abri a porta, um forte cheiro de óleo vegetal e carne de segunda inunda minhas narinas. O restaurante também não estava cheio e os funcionários estavam todos com cara de quem só queria estar em casa. Ali havia mesas com cadeiras fixas, mesas em sofás e uma bancada com banquetas. Eu escolhi uma destas para me sentar. Depois de tomar meu assento, eu acessei meu registro para rever a mensagem que me trouxe até aqui:
+		
