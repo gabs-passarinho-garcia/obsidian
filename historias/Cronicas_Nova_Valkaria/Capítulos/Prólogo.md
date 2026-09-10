@@ -39,4 +39,9 @@
 		Uns trinta minutos se passaram quando eu vi chegar uma mulher, alta como um porta e grande como um armário, os músculos completamente definidos marcados em sua camiseta preta sem qualquer detalhe. O cabelo castanho esta preso num coque funcional. Eu não conseguia ver, mas tinha certeza que ela estava armada até os dentes. Quando a vi, várias histórias se passaram pela minha mente, várias batalhas e aventuras e, então, eu sabia exatamente o que essa mulher iria dizer
 		- Lira, a barda - ela diz estendendo a mão num cumprimento formal - meu nome é Valéria, a Paladina de Valkaria - eu repito essas palavras com ela, em uníssono.
 		...
-		
+		- Você já me conhecia? - Valéria perguntou sem demonstrar surpresa
+		- Você especificamente não, mas conheci cada uma das campeãs anteriores de Valkaria, não é muito difícil perceber o padrão - eu respondi com um sorriso zombeteiro.
+		- Imaginei - ela responde e já se prepara para mudar de assunto - fomos contratadas para trabalhar juntas, sabe qual é a missão?
+		- Eu nem sabia que era uma missão, pela minha mensagem, poderia ser um encontro - eu respondi rindo.
+		Enquanto discutíamos isso, eu recebi uma nova mensagem do mesmo contato da anterior, Valéria desvia rapidamente o olhar, checando também uma notificação.
+		"Que bom que já se encontraram, espero que estejam se dando bem. A tarefa é simples, vocês devem investigar um carragamento suspeito, as coordenadas estão em anexo. Destruam tudo o que for ilegal e incapacitem os criminosos, podem chamar a polícia para prender os suspeitos, mas não sejam vistas, essa missão nunca aconteceu. O pagamento será feito diretamente na sua conta, espero que tudo dê certo e voltemos a trabalhar juntos. Assinado: Operador."
