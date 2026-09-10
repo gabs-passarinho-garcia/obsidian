@@ -43,5 +43,7 @@
 		- Você especificamente não, mas conheci cada uma das campeãs anteriores de Valkaria, não é muito difícil perceber o padrão - eu respondi com um sorriso zombeteiro.
 		- Imaginei - ela responde e já se prepara para mudar de assunto - fomos contratadas para trabalhar juntas, sabe qual é a missão?
 		- Eu nem sabia que era uma missão, pela minha mensagem, poderia ser um encontro - eu respondi rindo.
-		Enquanto discutíamos isso, eu recebi uma nova mensagem do mesmo contato da anterior, Valéria desvia rapidamente o olhar, checando também uma notificação.
-		"Que bom que já se encontraram, espero que estejam se dando bem. A tarefa é simples, vocês devem investigar um carragamento suspeito, as coordenadas estão em anexo. Destruam tudo o que for ilegal e incapacitem os criminosos, podem chamar a polícia para prender os suspeitos, mas não sejam vistas, essa missão nunca aconteceu. O pagamento será feito diretamente na sua conta, espero que tudo dê certo e voltemos a trabalhar juntos. Assinado: Operador."
+		Enquanto discutíamos isso, um zumbido eletrônico cortou o ar. O módulo de comunicação no pulso de Valéria piscou com uma luz azulada e ela desviou o olhar instantaneamente, a postura relaxada sumindo para dar lugar à prontidão tática.
+		No mesmo segundo, o meu próprio comunicador vibrou. Toquei a lateral do aparelho e o texto holográfico surgiu projetado diante dos meus olhos, lançando um brilho neon sobre a mesa engordurada da taverna:
+
+> _"Que bom que já se encontraram. Espero que estejam se dando bem._ _A tarefa é simples: investigar um carregamento suspeito nas coordenadas em anexo._ _Diretrizes: destruam tudo o que for ilegal e incapacitem os criminosos. Podem acionar a segurança de Khalmyr para recolher os suspeitos, mas não sejam vistas. Esta missão nunca existiu._ _O pagamento será roteado anonimamente para as contas de vocês. Espero que tudo dê certo para voltarmos a trabalhar juntos._ _Assinado: Operador._
