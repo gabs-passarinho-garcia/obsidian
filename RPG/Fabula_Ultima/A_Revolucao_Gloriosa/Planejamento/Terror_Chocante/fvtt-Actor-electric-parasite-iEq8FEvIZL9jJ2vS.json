@@ -1,0 +1,1259 @@
+{
+  "name": "Electric Parasite",
+  "type": "npc",
+  "system": {
+    "species": {
+      "value": "elemental"
+    },
+    "level": {
+      "value": 10
+    },
+    "traits": {
+      "value": "Mini Elemental Rat"
+    },
+    "attributes": {
+      "dex": {
+        "base": 8
+      },
+      "ins": {
+        "base": 8
+      },
+      "mig": {
+        "base": 6
+      },
+      "wlp": {
+        "base": 10
+      }
+    },
+    "bonuses": {
+      "accuracy": {
+        "accuracyCheck": 1,
+        "magicCheck": 1,
+        "all": 0,
+        "accuracyMelee": 0,
+        "accuracyRanged": 0,
+        "opposedCheck": 0,
+        "openCheck": 0,
+        "arcane": 0,
+        "bow": 0,
+        "brawling": 0,
+        "dagger": 0,
+        "firearm": 0,
+        "flail": 0,
+        "heavy": 0,
+        "spear": 0,
+        "sword": 0,
+        "thrown": 0
+      },
+      "damage": {
+        "melee": 0,
+        "ranged": 0,
+        "spell": 0,
+        "all": 0,
+        "arcane": 0,
+        "bow": 0,
+        "brawling": 0,
+        "dagger": 0,
+        "firearm": 0,
+        "flail": 0,
+        "heavy": 0,
+        "spear": 0,
+        "sword": 0,
+        "thrown": 0,
+        "physical": 0,
+        "air": 0,
+        "bolt": 0,
+        "dark": 0,
+        "earth": 0,
+        "fire": 0,
+        "ice": 0,
+        "light": 0,
+        "poison": 0,
+        "beast": 0,
+        "construct": 0,
+        "demon": 0,
+        "elemental": 0,
+        "humanoid": 0,
+        "monster": 0,
+        "plant": 0,
+        "undead": 0
+      },
+      "bondStrength": 0,
+      "incomingRecovery": {
+        "hp": 0,
+        "mp": 0,
+        "ip": 0
+      },
+      "incomingLoss": {
+        "hp": 0,
+        "mp": 0,
+        "ip": 0
+      },
+      "outgoingRecovery": {
+        "hp": 0,
+        "mp": 0,
+        "ip": 0
+      },
+      "incomingDamage": {
+        "all": 0,
+        "melee": 0,
+        "ranged": 0,
+        "spell": 0,
+        "arcane": 0,
+        "bow": 0,
+        "brawling": 0,
+        "dagger": 0,
+        "firearm": 0,
+        "flail": 0,
+        "heavy": 0,
+        "spear": 0,
+        "sword": 0,
+        "thrown": 0,
+        "physical": 0,
+        "air": 0,
+        "bolt": 0,
+        "dark": 0,
+        "earth": 0,
+        "fire": 0,
+        "ice": 0,
+        "light": 0,
+        "poison": 0,
+        "beast": 0,
+        "construct": 0,
+        "demon": 0,
+        "elemental": 0,
+        "humanoid": 0,
+        "monster": 0,
+        "plant": 0,
+        "undead": 0
+      },
+      "turns": 0
+    },
+    "derived": {
+      "def": {
+        "bonus": 1
+      },
+      "mdef": {
+        "bonus": 2
+      },
+      "init": {
+        "bonus": 0
+      }
+    },
+    "immunities": {
+      "dazed": {
+        "base": false
+      },
+      "shaken": {
+        "base": false
+      },
+      "slow": {
+        "base": false
+      },
+      "weak": {
+        "base": false
+      },
+      "enraged": {
+        "base": false
+      },
+      "poisoned": {
+        "base": true
+      }
+    },
+    "resources": {
+      "hp": {
+        "value": 50,
+        "bonus": 0
+      },
+      "mp": {
+        "value": 70,
+        "bonus": 10
+      },
+      "fp": {
+        "value": 0
+      },
+      "pronouns": {
+        "name": ""
+      }
+    },
+    "affinities": {
+      "physical": {
+        "base": 0
+      },
+      "air": {
+        "base": 0
+      },
+      "bolt": {
+        "base": 2
+      },
+      "dark": {
+        "base": 0
+      },
+      "earth": {
+        "base": -1
+      },
+      "fire": {
+        "base": 0
+      },
+      "ice": {
+        "base": -1
+      },
+      "light": {
+        "base": 0
+      },
+      "poison": {
+        "base": 2
+      }
+    },
+    "rank": {
+      "value": "soldier",
+      "replacedSoldiers": 1
+    },
+    "equipped": {
+      "therioforms": []
+    },
+    "multipliers": {
+      "incomingRecovery": {
+        "mp": 1,
+        "ip": 1,
+        "hp": 1
+      },
+      "incomingLoss": {
+        "hp": 1,
+        "mp": 1,
+        "ip": 1
+      },
+      "outgoingRecovery": {
+        "hp": 1,
+        "mp": 1,
+        "ip": 1
+      }
+    },
+    "overrides": {
+      "damageType": {
+        "all": {
+          "normal": "",
+          "priority": ""
+        },
+        "attack": {
+          "normal": "",
+          "priority": ""
+        },
+        "spell": {
+          "normal": "",
+          "priority": ""
+        },
+        "skill": {
+          "normal": "",
+          "priority": ""
+        }
+      }
+    },
+    "description": "",
+    "villain": {
+      "value": ""
+    },
+    "phases": {
+      "value": 1
+    },
+    "multipart": {
+      "value": ""
+    },
+    "role": {
+      "value": "custom"
+    },
+    "references": {
+      "actor": null,
+      "skill": null
+    },
+    "useEquipment": {
+      "value": false
+    },
+    "study": {
+      "value": 0
+    },
+    "pressurePoints": {
+      "entries": []
+    },
+    "associatedTherioforms": ""
+  },
+  "items": [
+    {
+      "name": "Thunder shock",
+      "type": "basic",
+      "system": {
+        "attributes": {
+          "primary": {
+            "value": "ins"
+          },
+          "secondary": {
+            "value": "wlp"
+          }
+        },
+        "defense": "mdef",
+        "damage": {
+          "value": 5
+        },
+        "type": {
+          "value": "ranged"
+        },
+        "damageType": {
+          "value": "bolt"
+        },
+        "description": "<p>This attack targets Magic Defense instead of Defense.</p>",
+        "summary": {},
+        "showTitleCard": {
+          "value": false
+        },
+        "isBehavior": {
+          "value": false
+        },
+        "weight": {
+          "value": 1
+        },
+        "accuracy": {
+          "value": 0
+        },
+        "hasDamage": true,
+        "effects": {
+          "entries": [],
+          "prompt": false,
+          "duration": {
+            "event": "",
+            "tracking": ""
+          }
+        },
+        "cost": {
+          "value": 100
+        },
+        "quality": {},
+        "rollInfo": {
+          "useWeapon": {
+            "hrZero": {
+              "value": false
+            }
+          }
+        },
+        "traits": []
+      },
+      "flags": {
+        "projectfu": {
+          "favorite": true
+        }
+      },
+      "_id": "TWGZzRYGgREZLfww",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "projectfu",
+        "systemVersion": "4.16.2",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Fulgur",
+      "type": "spell",
+      "system": {
+        "summary": {
+          "value": "Cause heavy bolt damage to multiple targets."
+        },
+        "description": "You weave electricity into a wave of crackling bolts. Each target hit by this spell suffers bolt damage.",
+        "duration": {
+          "value": "instantaneous"
+        },
+        "isOffensive": {
+          "value": true
+        },
+        "rollInfo": {
+          "attributes": {
+            "primary": {
+              "value": "mig"
+            },
+            "secondary": {
+              "value": "wlp"
+            }
+          },
+          "damage": {
+            "hasDamage": {
+              "value": true
+            },
+            "type": {
+              "value": "bolt"
+            },
+            "value": 15
+          },
+          "useWeapon": {
+            "hrZero": {
+              "value": false
+            }
+          },
+          "accuracy": {
+            "value": 0
+          }
+        },
+        "hasRoll": {
+          "value": true
+        },
+        "cost": {
+          "resource": "mp",
+          "amount": "10",
+          "perTarget": true
+        },
+        "targeting": {
+          "rule": "multiple",
+          "max": 3
+        },
+        "showTitleCard": {
+          "value": false
+        },
+        "class": {},
+        "useWeapon": {
+          "accuracy": {
+            "value": false
+          },
+          "damage": {
+            "value": false
+          },
+          "hrZero": {
+            "value": false
+          }
+        },
+        "attributes": {
+          "primary": {
+            "value": "ins"
+          },
+          "secondary": {
+            "value": "mig"
+          }
+        },
+        "accuracy": {
+          "value": 0
+        },
+        "defense": "mdef",
+        "resource": {
+          "enabled": false,
+          "amount": "",
+          "type": "hp"
+        },
+        "effects": {
+          "entries": [],
+          "prompt": false,
+          "duration": {
+            "event": "",
+            "tracking": ""
+          }
+        },
+        "impdamage": {
+          "hasImpDamage": {
+            "value": false
+          },
+          "value": 0,
+          "impType": {
+            "value": "minor"
+          },
+          "type": {
+            "value": "physical"
+          }
+        },
+        "isBehavior": {
+          "value": false
+        },
+        "weight": {
+          "value": 1
+        },
+        "traits": []
+      },
+      "flags": {
+        "projectfu": {
+          "favorite": true
+        }
+      },
+      "_id": "SN6f0bSRGcTETFmW",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "projectfu",
+        "systemVersion": "4.16.2",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Omega",
+      "type": "spell",
+      "system": {
+        "summary": {
+          "value": "Cause a target to loose HP based on its level."
+        },
+        "description": "You invoke doom on your foe, turning strength into frailty. The target loses an amount of Hit Points equal to 【20 + half the target's level】.",
+        "duration": {
+          "value": "instantaneous"
+        },
+        "isOffensive": {
+          "value": true
+        },
+        "rollInfo": {
+          "attributes": {
+            "primary": {
+              "value": "mig"
+            },
+            "secondary": {
+              "value": "wlp"
+            }
+          },
+          "damage": {
+            "hasDamage": {
+              "value": false
+            },
+            "value": 0,
+            "type": {
+              "value": "physical"
+            }
+          },
+          "useWeapon": {
+            "hrZero": {
+              "value": false
+            }
+          },
+          "accuracy": {
+            "value": 0
+          }
+        },
+        "hasRoll": {
+          "value": true
+        },
+        "cost": {
+          "resource": "mp",
+          "amount": "20",
+          "perTarget": false
+        },
+        "targeting": {
+          "rule": "single",
+          "max": 1
+        },
+        "showTitleCard": {
+          "value": false
+        },
+        "class": {},
+        "useWeapon": {
+          "accuracy": {
+            "value": false
+          },
+          "damage": {
+            "value": false
+          },
+          "hrZero": {
+            "value": false
+          }
+        },
+        "attributes": {
+          "primary": {
+            "value": "ins"
+          },
+          "secondary": {
+            "value": "mig"
+          }
+        },
+        "accuracy": {
+          "value": 0
+        },
+        "defense": "mdef",
+        "resource": {
+          "enabled": false,
+          "amount": "",
+          "type": "hp"
+        },
+        "effects": {
+          "entries": [],
+          "prompt": false,
+          "duration": {
+            "event": "",
+            "tracking": ""
+          }
+        },
+        "impdamage": {
+          "hasImpDamage": {
+            "value": false
+          },
+          "value": 0,
+          "impType": {
+            "value": "minor"
+          },
+          "type": {
+            "value": "physical"
+          }
+        },
+        "isBehavior": {
+          "value": false
+        },
+        "weight": {
+          "value": 1
+        },
+        "traits": []
+      },
+      "flags": {
+        "projectfu": {
+          "favorite": true
+        }
+      },
+      "_id": "HxXkxO5YAWz1Bcbv",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "projectfu",
+        "systemVersion": "4.16.2",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Breath",
+      "type": "spell",
+      "system": {
+        "summary": {
+          "value": "Deal moderate damage to a single target."
+        },
+        "description": "<div>The target suffers Bolt damage.</div>",
+        "duration": {
+          "value": "instantaneous"
+        },
+        "isOffensive": {
+          "value": true
+        },
+        "rollInfo": {
+          "attributes": {
+            "primary": {
+              "value": "mig"
+            },
+            "secondary": {
+              "value": "wlp"
+            }
+          },
+          "damage": {
+            "hasDamage": {
+              "value": true
+            },
+            "type": {
+              "value": "bolt"
+            },
+            "value": 10
+          },
+          "useWeapon": {
+            "hrZero": {
+              "value": false
+            }
+          },
+          "accuracy": {
+            "value": 0
+          }
+        },
+        "hasRoll": {
+          "value": true
+        },
+        "cost": {
+          "resource": "mp",
+          "amount": "5",
+          "perTarget": false
+        },
+        "targeting": {
+          "rule": "single",
+          "max": 1
+        },
+        "showTitleCard": {
+          "value": false
+        },
+        "class": {},
+        "useWeapon": {
+          "accuracy": {
+            "value": false
+          },
+          "damage": {
+            "value": false
+          },
+          "hrZero": {
+            "value": false
+          }
+        },
+        "attributes": {
+          "primary": {
+            "value": "ins"
+          },
+          "secondary": {
+            "value": "mig"
+          }
+        },
+        "accuracy": {
+          "value": 0
+        },
+        "defense": "mdef",
+        "resource": {
+          "enabled": false,
+          "amount": "",
+          "type": "hp"
+        },
+        "effects": {
+          "entries": [],
+          "prompt": false,
+          "duration": {
+            "event": "",
+            "tracking": ""
+          }
+        },
+        "impdamage": {
+          "hasImpDamage": {
+            "value": false
+          },
+          "value": 0,
+          "impType": {
+            "value": "minor"
+          },
+          "type": {
+            "value": "physical"
+          }
+        },
+        "isBehavior": {
+          "value": false
+        },
+        "weight": {
+          "value": 1
+        },
+        "traits": []
+      },
+      "flags": {
+        "projectfu": {
+          "favorite": true
+        }
+      },
+      "_id": "Z2grXsScaVICDis6",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "projectfu",
+        "systemVersion": "4.16.2",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Collateral Damage",
+      "type": "rule",
+      "system": {
+        "summary": {
+          "value": "Deal damage when using the Hinder action."
+        },
+        "description": "<div>Bestiary Volume I p40</div><div>Chosen damage type: Bolt</div>",
+        "showTitleCard": {
+          "value": false
+        },
+        "isBehavior": {
+          "value": false
+        },
+        "weight": {
+          "value": 1
+        },
+        "hasClock": {
+          "value": false
+        },
+        "progress": {
+          "current": 0,
+          "step": 1,
+          "max": 6,
+          "enabled": false
+        },
+        "traits": [],
+        "cost": {
+          "resource": "mp",
+          "amount": "",
+          "perTarget": false
+        },
+        "useWeapon": {
+          "accuracy": false,
+          "damage": false,
+          "traits": true
+        },
+        "hasRoll": {
+          "value": false
+        },
+        "attributes": {
+          "primary": "dex",
+          "secondary": "ins"
+        },
+        "defense": "def",
+        "damage": {
+          "hasDamage": false,
+          "hrZero": false,
+          "value": 0,
+          "type": "physical"
+        },
+        "effects": {
+          "entries": [],
+          "prompt": false,
+          "duration": {
+            "event": "",
+            "tracking": ""
+          }
+        },
+        "resource": {
+          "enabled": false,
+          "amount": "",
+          "type": "hp"
+        },
+        "hasResource": {
+          "value": false
+        },
+        "rp": {
+          "current": 0,
+          "step": 1,
+          "max": 6,
+          "enabled": false
+        },
+        "targeting": {
+          "rule": "special",
+          "max": 0
+        }
+      },
+      "flags": {
+        "projectfu": {
+          "favorite": true
+        }
+      },
+      "_id": "5JXpbxPKGTggjy4u",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "projectfu",
+        "systemVersion": "4.16.2",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Painful Miss",
+      "type": "rule",
+      "system": {
+        "summary": {
+          "value": "Deal damage to yourself or allies when you miss with your attacks."
+        },
+        "description": "<div>Bestiary Volume I p69.</div><div>Chosen Attack: Normal Attack</div><div>Chosen Target: Yourself</div>",
+        "showTitleCard": {
+          "value": false
+        },
+        "isBehavior": {
+          "value": false
+        },
+        "weight": {
+          "value": 1
+        },
+        "hasClock": {
+          "value": false
+        },
+        "progress": {
+          "current": 0,
+          "step": 1,
+          "max": 6,
+          "enabled": false
+        },
+        "traits": [],
+        "cost": {
+          "resource": "mp",
+          "amount": "",
+          "perTarget": false
+        },
+        "useWeapon": {
+          "accuracy": false,
+          "damage": false,
+          "traits": true
+        },
+        "hasRoll": {
+          "value": false
+        },
+        "attributes": {
+          "primary": "dex",
+          "secondary": "ins"
+        },
+        "defense": "def",
+        "damage": {
+          "hasDamage": false,
+          "hrZero": false,
+          "value": 0,
+          "type": "physical"
+        },
+        "effects": {
+          "entries": [],
+          "prompt": false,
+          "duration": {
+            "event": "",
+            "tracking": ""
+          }
+        },
+        "resource": {
+          "enabled": false,
+          "amount": "",
+          "type": "hp"
+        },
+        "hasResource": {
+          "value": false
+        },
+        "rp": {
+          "current": 0,
+          "step": 1,
+          "max": 6,
+          "enabled": false
+        },
+        "targeting": {
+          "rule": "special",
+          "max": 0
+        }
+      },
+      "flags": {
+        "projectfu": {
+          "favorite": true
+        }
+      },
+      "_id": "EW1TAvM8Kff3MqOO",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "projectfu",
+        "systemVersion": "4.16.2",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Element Drain",
+      "type": "rule",
+      "system": {
+        "summary": {
+          "value": "Restore MP when hit by elemental damage."
+        },
+        "description": "<div>Bestiary Volume I p41</div>",
+        "showTitleCard": {
+          "value": false
+        },
+        "isBehavior": {
+          "value": false
+        },
+        "weight": {
+          "value": 1
+        },
+        "hasClock": {
+          "value": false
+        },
+        "progress": {
+          "current": 0,
+          "step": 1,
+          "max": 6,
+          "enabled": false
+        },
+        "traits": [],
+        "cost": {
+          "resource": "mp",
+          "amount": "",
+          "perTarget": false
+        },
+        "useWeapon": {
+          "accuracy": false,
+          "damage": false,
+          "traits": true
+        },
+        "hasRoll": {
+          "value": false
+        },
+        "attributes": {
+          "primary": "dex",
+          "secondary": "ins"
+        },
+        "defense": "def",
+        "damage": {
+          "hasDamage": false,
+          "hrZero": false,
+          "value": 0,
+          "type": "physical"
+        },
+        "effects": {
+          "entries": [],
+          "prompt": false,
+          "duration": {
+            "event": "",
+            "tracking": ""
+          }
+        },
+        "resource": {
+          "enabled": false,
+          "amount": "",
+          "type": "hp"
+        },
+        "hasResource": {
+          "value": false
+        },
+        "rp": {
+          "current": 0,
+          "step": 1,
+          "max": 6,
+          "enabled": false
+        },
+        "targeting": {
+          "rule": "special",
+          "max": 0
+        }
+      },
+      "flags": {
+        "projectfu": {
+          "favorite": true
+        }
+      },
+      "_id": "3tEuFZ6c1TgAYNN5",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "projectfu",
+        "systemVersion": "4.16.2",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "img": "icons/svg/mystery-man.svg",
+  "prototypeToken": {
+    "name": "Electric Parasite",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 50,
+    "bar1": {
+      "attribute": "resources.hp"
+    },
+    "bar2": {
+      "attribute": "resources.mp"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {
+      "barbrawl": {
+        "resourceBars": {
+          "bar1": {
+            "id": "bar1",
+            "order": 0,
+            "attribute": "resources.hp",
+            "mincolor": "#FF0000",
+            "maxcolor": "#80FF00",
+            "position": "bottom-inner",
+            "gmVisibility": -1,
+            "ownerVisibility": 0,
+            "otherVisibility": 0,
+            "hideFull": false,
+            "hideEmpty": false,
+            "hideCombat": false,
+            "hideNoCombat": false,
+            "hideHud": false,
+            "shareHeight": false,
+            "indentLeft": null,
+            "indentRight": null,
+            "style": "user",
+            "label": "",
+            "invert": false,
+            "subdivisions": null,
+            "subdivisionsOwner": false,
+            "invertDirection": false,
+            "fgImage": "",
+            "bgImage": "",
+            "hideBg": false,
+            "opacity": null
+          },
+          "bar2": {
+            "id": "bar2",
+            "order": 1,
+            "attribute": "resources.mp",
+            "mincolor": "#FF0000",
+            "maxcolor": "#80FF00",
+            "position": "bottom-inner",
+            "gmVisibility": -1,
+            "ownerVisibility": 0,
+            "otherVisibility": 0,
+            "hideFull": false,
+            "hideEmpty": false,
+            "hideCombat": false,
+            "hideNoCombat": false,
+            "hideHud": false,
+            "shareHeight": false,
+            "indentLeft": null,
+            "indentRight": null,
+            "style": "user",
+            "label": "",
+            "invert": false,
+            "subdivisions": null,
+            "subdivisionsOwner": false,
+            "invertDirection": false,
+            "fgImage": "",
+            "bgImage": "",
+            "hideBg": false,
+            "opacity": null
+          }
+        },
+        "replaceBars": true
+      },
+      "wall-height": {
+        "tokenHeight": 0
+      }
+    },
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "effects": [],
+  "folder": "WFjsmfVXft6izrWz",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Actor.iEq8FEvIZL9jJ2vS",
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "the-glorious-revolution",
+      "uuid": "Actor.iEq8FEvIZL9jJ2vS",
+      "coreVersion": "13.351",
+      "systemId": "projectfu",
+      "systemVersion": "4.16.2"
+    },
+    "coreVersion": "13.351",
+    "systemId": "projectfu",
+    "systemVersion": "4.16.2",
+    "createdTime": 1789520441303,
+    "modifiedTime": 1789520472163,
+    "lastModifiedBy": "rGIbhpApQ9u8TIK1"
+  },
+  "ownership": {
+    "default": 0
+  }
+}
