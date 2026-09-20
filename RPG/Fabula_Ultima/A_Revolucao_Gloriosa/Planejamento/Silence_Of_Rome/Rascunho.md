@@ -105,6 +105,7 @@ _Aparência, trejeito físico, padrão de fala, quebra sob pressão e uma frase 
 - _Frase de abertura:_ "Minha estufa não mata ninguém sozinha. Alguém teve mãos lá dentro que não deveriam estar."
 
 **Cardeal Ottoboni**
+![[Cardinal_art.png]]
 
 - _Aparência:_ corpulento de um jeito que parece deliberadamente confortável, vestes vermelhas impecáveis mesmo em meio ao caos do palácio — como se o luto real não tocasse a roupa dele. Sorriso pronto, olhos que nunca param de calcular por trás dele.
 - _Trejeito:_ toca a cruz peitoral sempre que está calculando o próximo movimento — um tell que ele nem sabe que tem.
