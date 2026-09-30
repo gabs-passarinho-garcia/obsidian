@@ -25,7 +25,7 @@ description: Main campaign structure and physics domains.
 	- *Cientistas:* Isaac Newton, Galileu Galilei
 	- *Relíquia:* O Pêndulo da Inércia
 
-3. **Ótica** - Stonehenge
+3. **Ótica** ([[Ilusao_Feerica_de_Young]]) - Stonehenge
 	- *Contexto:* Espelhos e Ilusões
 	- *Cientistas:* Thomas Young, Christiaan Huygens
 	- *Relíquia:* O Prisma de Fenda Dupla
