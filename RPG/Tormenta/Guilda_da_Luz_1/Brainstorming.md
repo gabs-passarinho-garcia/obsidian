@@ -82,3 +82,5 @@ tags:
 * É possível concluir a campanha sem descobrir a história do Símio, se não encontrarem nenhuma informação, seja através dos diários ou das interações com NPCs e o mundo.
 * O que acontece se o Símio conseguir lançar a bomba?
 * Independentemente do resultado, o novo vírus do professor começa a se espalhar secretamente (gancho para próxima campanha), talvez tenha escapado quando o professor foi sequestrado lá no começo
+* A bomba é alimentada por Matéria Vermelha. Uma área de Tormenta se forma se ela for detonada.
+* Se os heróis conseguirem sabotar a construção da bomba, eles ganham vantagens táticas na batalha final e a bomba fica mais instável e perigosa
