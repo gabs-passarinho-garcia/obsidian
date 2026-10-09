@@ -6,7 +6,7 @@ tags:
 # História
 ### I. A Cobaia e o Despertar
 
-Antes do crânio partido e do sangue nas mãos, ele era apenas um pequeno mascote inocente, afeiçoado às três garotas da casa Uton. A tragédia começou no dia em que o Mestre Antonius o carregou até o laboratório subterrâneo. Preso a uma maca fria por correias de couro, o animal não compreendia os eletrodos fixados em sua pele nem o cateter cravado em sua veia.
+Antes do crânio partido e do sangue nas mãos, ele era apenas um pequeno macaco mascote inocente, afeiçoado às três garotas da casa Uton. A tragédia começou no dia em que o Mestre Antonius o carregou até o laboratório subterrâneo. Preso a uma maca fria por correias de couro, o animal não compreendia os eletrodos fixados em sua pele nem o cateter cravado em sua veia.
 
 Quando a sala se esvaziou e o Reagente V — o fluido denso e avermelhado da Tormenta — começou a fluir para dentro do seu corpo, a dor foi agônica. Os ossos do simióide estalaram ao se expandirem; a musculatura rasgou a pele original para dar lugar a uma massa grotesca de carne e força. Mas o sofrimento verdadeiro veio de dentro: o cérebro do primata cresceu além dos limites anatômicos, fraturando o osso parietal e projetando-se para fora da cabeça, pulsando exposto ao ar.
 
